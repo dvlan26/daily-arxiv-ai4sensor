@@ -1,3 +1,3 @@
-# AI4Bio ArXiv Daily - WeChat Version
+# AI4Senser ArXiv Daily - WeChat Version
 
-This is the WeChat-optimized version of AI4Bio ArXiv Daily papers.
+This is the WeChat-optimized version of AI4Senser ArXiv Daily papers.

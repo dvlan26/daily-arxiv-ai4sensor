@@ -1,6 +1,6 @@
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "YuzeHao2023"
-repo_name: "daily-arxiv-ai4bio"
+user_name: "dvlan26"
+repo_name: "daily-arxiv-ai4senser"
 show_authors: True
 show_links: True
 show_badge: True
@@ -11,9 +11,9 @@ publish_gitpage: True
 publish_wechat: False
 
 # file paths
-json_readme_path: './docs/ai4bio-arxiv-daily.json'
-json_gitpage_path: './docs/ai4bio-arxiv-daily-web.json'
-json_wechat_path: './docs/ai4bio-arxiv-daily-wechat.json'
+json_readme_path: './docs/ai4senser-arxiv-daily.json'
+json_gitpage_path: './docs/ai4senser-arxiv-daily-web.json'
+json_wechat_path: './docs/ai4senser-arxiv-daily-wechat.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
@@ -21,26 +21,38 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Protein Structure & Engineering":
-        filters: ["Protein Structure Prediction", "Protein Design", "AlphaFold", "RoseTTAFold", "Protein Folding", "Inverse Folding", "Protein Language Model", "pLM", "ESM", "Site-specific Mutagenesis", "Protein Function Prediction"]
+    "Foundations & Representation Learning":
+        # 核心 AI 理论：预训练、表征、信号处理
+        filters: ["Sensor Foundation Models", "Self-Supervised Learning for Sensors", "Sensor Representation Learning", "Time-series Analysis", "Signal Reconstruction", "Contrastive Learning for Signals", "Cross-Modal Learning (Sensor-Text-Image)", "Signal Feature Extraction", "Pre-Trained Models for Sensor Data", "Wavelet Transform", "Spectral Analysis"]
 
-    "Antibody, Antigen & Vaccine":
-        filters: ["Antibody Design", "Antigen-Antibody Interaction", "Epitope Prediction", "Vaccine Design", "Therapeutic Antibodies", "CDR Generation", "Humanness Scoring", "Immunogenicity"]
+    "Intelligent Perception & Physical Sensing":
+        # 硬件与 AI 的融合：触觉、柔性、生物物理感知
+        filters: ["Tactile Sensing", "Electronic Skin", "e-skin", "Soft Sensors", "Biosensors", "Wearable Sensors", "Flexible Electronics", "Sensor Material Property Prediction", "Smart Sensor Development", "MEMS", "Gas Sensing", "Chemical Vapor Detection", "Miniaturized Sensor Design", "Sensor Sensitivity Enhancement"]
 
-    "Genomics & Regulatory Sequence":
-        filters: ["Genomics", "DNA Sequence Modeling", "RNA Modeling", "Genomic Language Models", "Variant Effect Prediction", "CRISPR Guide Design", "Epigenomics", "Splice Site Prediction", "Non-coding RNA", "Motif Discovery"]
+    "Human-Centric Sensing & Health":
+        # 针对人的感知：活动识别、生理信号
+        filters: ["Human Activity Recognition", "HAR", "Gait Analysis", "Pose Estimation", "Vital Signs Monitoring", "ECG Analysis", "PPG", "Electromyography", "EMG", "Brain-Computer Interface", "BCI", "Sleep Staging", "Wearable Sensor Data Interpretation", "Medical Sensor Data Analysis"]
 
-    "Single-cell & Spatial Multi-omics":
-        filters: ["Single-cell RNA-seq", "scRNA-seq", "Spatial Transcriptomics", "Spatial Omics", "Multi-omics Integration", "Cell Type Annotation", "Trajectory Inference", "Cellular Heterogeneity", "Batch Effect Correction"]
+    "Wireless, Ubiquitous & Remote Sensing":
+        # 非接触式与远距离感知
+        filters: ["WiFi Sensing", "CSI", "Channel State Information", "Radar Sensing", "FMCW Radar", "Acoustic Sensing", "Ultrasonic Sensing", "LoRa Sensing", "RFID Sensing", "Occupancy Detection", "Remote Sensing", "Hyperspectral Imaging", "Satellite Imagery Analysis"]
 
-    "Drug Discovery & Interaction":
-        filters: ["Drug-Target Interaction", "DTI", "Compound-Protein Interaction", "CPI", "Protein-Protein Interaction", "PPI", "Molecular Docking", "Binding Affinity Prediction", "Virtual Screening", "De Novo Drug Design", "ADMET", "Lead Optimization"]
+    "Multi-Modal Fusion & Geometric Deep Learning":
+        # 空间、网络与多模态数据整合
+        filters: ["Multi-Sensor Fusion (MSF)", "Sensor Fusion", "Multimodal Fusion", "Cross-Sensor Data Calibration", "Graph Neural Networks", "GNN", "Point Cloud Processing", "Geometric Deep Learning", "Sensor Networks", "Graph Signal Processing", "Spatial-Temporal Modeling", "Sensor Data Synchronization", "Heterogeneous Sensor Fusion"]
 
-    "Biological Generative & Foundation Models":
-        filters: ["Biological Foundation Models", "Generative Biology", "Diffusion Models for Proteins", "Flow Matching", "Biological Sequence Generation", "Biological Representation Learning", "Cross-Modal Learning", "Text-to-Biology", "Self-Supervised Learning"]
+    "Generative AI & Data Augmentation":
+        # 解决小样本与噪声问题：生成式 AI
+        filters: ["Synthetic Sensor Data Generation", "Sensor Data Synthesis", "Generative Adversarial Networks", "Diffusion Models for Sensor Data", "Flow Matching for Sensor Signals", "Sensor Data Imputation", "Data Augmentation", "Sim-to-Real Transfer", "Domain Adaptation", "Imbalanced Sensor Data Handling", "Sensor Signal Synthesis"]
 
-    "Systems Biology & Knowledge Graphs":
-        filters: ["Gene Regulatory Networks", "GRN", "Biological Networks", "Systems Biology", "Graph Neural Networks for Biology", "Biomedical Knowledge Graphs", "BioNLP", "Biomedical Text Mining", "Pathway Analysis", "Ontology"]
+    "Edge Intelligence & On-Device AI":
+        # 部署、能效与边缘计算
+        filters: ["Edge AI for Sensors", "TinyML", "On-device Learning", "Hardware-aware AI", "Quantization", "Low-power Inference", "Sensor Power Consumption Optimization", "Sensor Node Localization", "Energy-Efficient Sensing", "Edge Computing for Sensor Data", "Low-Power Sensor Data Transmission"]
 
-    "Medical Imaging & Evolution":
-        filters: ["Medical Imaging", "Microscopy", "Image Segmentation", "Histopathology", "Phylogenetics", "Evolutionary Dynamics", "Ancestral Sequence Reconstruction", "Coevolutionary Analysis", "Epidemiology"]
+    "Robustness, Calibration & Maintenance":
+        # 可靠性、校准与故障诊断
+        filters: ["Sensor Calibration with AI", "Auto-Calibration of Sensors", "Sensor Drift Compensation", "Sensor Fault Detection", "Sensor Anomaly Identification", "Sensor Health Monitoring", "Predictive Maintenance for Sensors", "Sensor Reliability Assessment", "Sensor Degradation Trend Prediction", "Fault Tolerant Control", "Denoising", "Weak Signal Detection"]
+
+    "Cyber-Physical Systems & IoT Analytics":
+        # 场景化应用：工业、城市、机器人
+        filters: ["Internet of Things", "IoT", "Smart City", "Proprioception", "Exteroception", "SLAM", "Industrial Sensor Monitoring", "Structural Health Monitoring", "SHM", "Automotive Sensor Fusion", "Agricultural Sensor Data Modeling", "Aerospace Sensor Monitoring", "Predictive Maintenance"]

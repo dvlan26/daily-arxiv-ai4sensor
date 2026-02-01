@@ -7,7 +7,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "0 8 * * 1"  #Run At 08:00 on Monday
+    - cron:  "0 0/12 * * *"  #Run At 08:00 on Monday
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
 #     branches:
@@ -48,12 +48,12 @@ jobs:
         run: |
           python daily_arxiv.py --update_paper_links
           
-      - name: Push new ai4bio-arxiv-daily.md
+      - name: Push new ai4senser-arxiv-daily.md
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: README.md docs/ai4bio-arxiv-daily.json docs/ai4bio-arxiv-daily-web.json docs/index.md docs/ai4bio-arxiv-daily-wechat.json docs/wechat.md
+          commit-message: "Github Action Automatic Update AI4Senser Arxiv Papers"
+          files: README.md docs/ai4senser-arxiv-daily.json docs/ai4senser-arxiv-daily-web.json docs/index.md docs/ai4senser-arxiv-daily-wechat.json docs/wechat.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}

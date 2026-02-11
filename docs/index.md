@@ -49,6 +49,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**AI-Driven Cardiorespiratory Signal Processing: Separation, Clustering, and Anomaly Detection**|Yasaman Torabi et.al.|[2602.09210](http://arxiv.org/abs/2602.09210)|null|
 |**2026-02-09**|**A Precise Real-Time Force-Aware Grasping System for Robust Aerial Manipulation**|Kenghou Hoi et.al.|[2602.08599](http://arxiv.org/abs/2602.08599)|null|
 |**2026-02-07**|**Why Look at It at All?: Vision-Free Multifingered Blind Grasping Using Uniaxial Fingertip Force Sensing**|Edgar Lee et.al.|[2602.07326](http://arxiv.org/abs/2602.07326)|null|
 |**2026-02-06**|**RAPID: Reconfigurable, Adaptive Platform for Iterative Design**|Zi Yin et.al.|[2602.06653](http://arxiv.org/abs/2602.06653)|null|
@@ -78,8 +79,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**BabyMamba-HAR: Lightweight Selective State Space Models for Efficient Human Activity Recognition on Resource Constrained Devices**|Mridankan Mandal et.al.|[2602.09872](http://arxiv.org/abs/2602.09872)|null|
+|**2026-02-10**|**Fully-automated sleep staging: multicenter validation of a generalizable deep neural network for Parkinson's disease and isolated REM sleep behavior disorder**|Jesper Strøm et.al.|[2602.09793](http://arxiv.org/abs/2602.09793)|null|
+|**2026-02-10**|**Circuit Fingerprints: How Answer Tokens Encode Their Geometrical Path**|Andres Saurez et.al.|[2602.09784](http://arxiv.org/abs/2602.09784)|null|
+|**2026-02-10**|**Why Linear Interpretability Works: Invariant Subspaces as a Result of Architectural Constraints**|Andres Saurez et.al.|[2602.09783](http://arxiv.org/abs/2602.09783)|null|
+|**2026-02-10**|**An open-source implementation of a closed-loop electrocorticographic Brain-Computer Interface using Micromed, FieldTrip, and PsychoPy**|Bob Van Dyck et.al.|[2602.09735](http://arxiv.org/abs/2602.09735)|null|
+|**2026-02-10**|**Finite-time Stable Pose Estimation on TSE(3) using Point Cloud and Velocity Sensors**|Nazanin S. Hashkavaei et.al.|[2602.09414](http://arxiv.org/abs/2602.09414)|null|
+|**2026-02-10**|**In-Hospital Stroke Prediction from PPG-Derived Hemodynamic Features**|Jiaming Liu et.al.|[2602.09328](http://arxiv.org/abs/2602.09328)|null|
+|**2026-02-10**|**PointAloud: An Interaction Suite for AI-Supported Pointer-Centric Think-Aloud Computing**|Frederic Gmeiner et.al.|[2602.09296](http://arxiv.org/abs/2602.09296)|null|
 |**2026-02-09**|**PPG as a Bridge: Cross-Device Authentication for Smart Wearables with Photoplethysmography**|Jiacheng Liu et.al.|[2602.08972](http://arxiv.org/abs/2602.08972)|null|
-|**2026-02-09**|**Redundancy-Free View Alignment for Multimodal Human Activity Recognition with Arbitrarily Missing Views**|Duc-Anh Nguyen et.al.|[2602.08755](http://arxiv.org/abs/2602.08755)|null|
+|**2026-02-10**|**Redundancy-Free View Alignment for Multimodal Human Activity Recognition with Arbitrarily Missing Views**|Duc-Anh Nguyen et.al.|[2602.08755](http://arxiv.org/abs/2602.08755)|null|
 |**2026-02-09**|**WiFlow: A Lightweight WiFi-based Continuous Human Pose Estimation Network with Spatio-Temporal Feature Decoupling**|Yi Dao et.al.|[2602.08661](http://arxiv.org/abs/2602.08661)|null|
 |**2026-02-09**|**Gesture Matters: Pedestrian Gesture Recognition for AVs Through Skeleton Pose Evaluation**|Alif Rizqullah Mahdi et.al.|[2602.08479](http://arxiv.org/abs/2602.08479)|null|
 |**2026-02-09**|**A Multi-physics Simulation Framework for High-power Microwave Counter-unmanned Aerial System Design and Performance Evaluation**|Akbar Anbar Jafari et.al.|[2602.08477](http://arxiv.org/abs/2602.08477)|null|
@@ -121,6 +130,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**An Unsupervised Normalizing Flow-Based Neyman-Pearson Detector for Covert Communications in the Presence of Disco Reconfigurable Intelligent Surfaces**|Luyao Sun et.al.|[2602.09763](http://arxiv.org/abs/2602.09763)|null|
+|**2026-02-10**|**SCA-Net: Spatial-Contextual Aggregation Network for Enhanced Small Building and Road Change Detection**|Emad Gholibeigi et.al.|[2602.09529](http://arxiv.org/abs/2602.09529)|null|
+|**2026-02-10**|**Multimode fiber laser cavities as nonlinear optical processors**|Dilem Eşlik et.al.|[2602.09519](http://arxiv.org/abs/2602.09519)|null|
+|**2026-02-10**|**Performance Analysis of Millimeter Wave Radar Waveforms for Integrated Sensing and Communication**|Akanksha Sneh et.al.|[2602.09451](http://arxiv.org/abs/2602.09451)|null|
+|**2026-02-10**|**When Movable Antennas Meet RSMA and RIS: Robust Beamforming Design With Channel Uncertainty**|Muhammad Asif et.al.|[2602.09419](http://arxiv.org/abs/2602.09419)|null|
+|**2026-02-09**|**Foundation Model-Aided Hierarchical Deep Reinforcement Learning for Blockage-Aware Link in RIS-Assisted Networks**|Mohammad Ghassemi et.al.|[2602.09157](http://arxiv.org/abs/2602.09157)|null|
+|**2026-02-09**|**WiLoc: Massive Measured Dataset of Wi-Fi Channel State Information with Application to Machine-Learning Based Localization**|Yuning Zhang et.al.|[2602.09115](http://arxiv.org/abs/2602.09115)|null|
 |**2026-02-09**|**WiFlow: A Lightweight WiFi-based Continuous Human Pose Estimation Network with Spatio-Temporal Feature Decoupling**|Yi Dao et.al.|[2602.08661](http://arxiv.org/abs/2602.08661)|null|
 |**2026-02-09**|**RFSoC-Based Integrated Navigation and Sensing Using NavIC**|Riya Sachdeva et.al.|[2602.08596](http://arxiv.org/abs/2602.08596)|null|
 |**2026-02-09**|**Tighnari v2: Mitigating Label Noise and Distribution Shift in Multimodal Plant Distribution Prediction via Mixture of Experts and Weakly Supervised Learning**|Haixu Liu et.al.|[2602.08282](http://arxiv.org/abs/2602.08282)|null|
@@ -163,6 +179,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Differentiable Tripartite Modularity for Clustering Heterogeneous Graphs**|Benoît Hurpeau et.al.|[2602.09864](http://arxiv.org/abs/2602.09864)|null|
+|**2026-02-10**|**PlugSI: Plug-and-Play Test-Time Graph Adaptation for Spatial Interpolation**|Xuhang Wu et.al.|[2602.09824](http://arxiv.org/abs/2602.09824)|null|
+|**2026-02-10**|**BRAVA-GNN: Betweenness Ranking Approximation Via Degree MAss Inspired Graph Neural Network**|Justin Dachille et.al.|[2602.09716](http://arxiv.org/abs/2602.09716)|null|
+|**2026-02-10**|**UniShare: A Unified Framework for Joint Video and Receiver Recommendation in Social Sharing**|Caimeng Wang et.al.|[2602.09618](http://arxiv.org/abs/2602.09618)|null|
+|**2026-02-10**|**Scalable and Reliable State-Aware Inference of High-Impact N-k Contingencies**|Lihao Mai et.al.|[2602.09461](http://arxiv.org/abs/2602.09461)|null|
+|**2026-02-10**|**Dieu khien he da tac tu**|Minh Hoang Trinh et.al.|[2602.09412](http://arxiv.org/abs/2602.09412)|null|
+|**2026-02-10**|**BrainTAP: Brain Disorder Prediction with Adaptive Distill and Selective Prior Integration**|Zhenyu Lei et.al.|[2602.09294](http://arxiv.org/abs/2602.09294)|null|
+|**2026-02-09**|**Generalizing GNNs with Tokenized Mixture of Experts**|Xiaoguang Guo et.al.|[2602.09258](http://arxiv.org/abs/2602.09258)|null|
+|**2026-02-09**|**EExApp: GNN-Based Reinforcement Learning for Radio Unit Energy Optimization in 5G O-RAN**|Jie Lu et.al.|[2602.09206](http://arxiv.org/abs/2602.09206)|null|
 |**2026-02-09**|**Automating the Wildfire Detection and Scheduling Pipeline with Maneuverable Earth Observation Satellites**|Brycen D. Pearl et.al.|[2602.08924](http://arxiv.org/abs/2602.08924)|null|
 |**2026-02-09**|**Rethinking Graph Generalization through the Lens of Sharpness-Aware Minimization**|Yang Qiu et.al.|[2602.08855](http://arxiv.org/abs/2602.08855)|null|
 |**2026-02-09**|**A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation**|Ofek Amran et.al.|[2602.08785](http://arxiv.org/abs/2602.08785)|null|
@@ -208,6 +233,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Context-Aware Counterfactual Data Augmentation for Gender Bias Mitigation in Language Models**|Shweta Parihar et.al.|[2602.09590](http://arxiv.org/abs/2602.09590)|null|
+|**2026-02-10**|**LEMUR: A Corpus for Robust Fine-Tuning of Multilingual Law Embedding Models for Retrieval**|Narges Baba Ahmadi et.al.|[2602.09570](http://arxiv.org/abs/2602.09570)|null|
+|**2026-02-10**|**HLGFA: High-Low Resolution Guided Feature Alignment for Unsupervised Anomaly Detection**|Han Zhou et.al.|[2602.09524](http://arxiv.org/abs/2602.09524)|null|
+|**2026-02-10**|**Impact of domain adaptation in deep learning for medical image classifications**|Yihang Wu et.al.|[2602.09355](http://arxiv.org/abs/2602.09355)|null|
+|**2026-02-10**|**Empowering Contrastive Federated Sequential Recommendation with LLMs**|Thi Minh Chau Nguyen et.al.|[2602.09306](http://arxiv.org/abs/2602.09306)|null|
+|**2026-02-10**|**Measuring Privacy Risks and Tradeoffs in Financial Synthetic Data Generation**|Michael Zuo et.al.|[2602.09288](http://arxiv.org/abs/2602.09288)|null|
+|**2026-02-09**|**One RNG to Rule Them All: How Randomness Becomes an Attack Vector in Machine Learning**|Kotekar Annapoorna Prabhu et.al.|[2602.09182](http://arxiv.org/abs/2602.09182)|null|
 |**2026-02-09**|**Automatic In-Domain Exemplar Construction and LLM-Based Refinement of Multi-LLM Expansions for Query Expansion**|Minghan Li et.al.|[2602.08917](http://arxiv.org/abs/2602.08917)|null|
 |**2026-02-09**|**Closing the Confusion Loop: CLIP-Guided Alignment for Source-Free Domain Adaptation**|Shanshan Wang et.al.|[2602.08730](http://arxiv.org/abs/2602.08730)|null|
 |**2026-02-09**|**SynSacc: A Blender-to-V2E Pipeline for Synthetic Neuromorphic Eye-Movement Data and Sim-to-Real Spiking Model Training**|Khadija Iddrisu et.al.|[2602.08726](http://arxiv.org/abs/2602.08726)|null|
@@ -253,6 +285,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**BabyMamba-HAR: Lightweight Selective State Space Models for Efficient Human Activity Recognition on Resource Constrained Devices**|Mridankan Mandal et.al.|[2602.09872](http://arxiv.org/abs/2602.09872)|null|
+|**2026-02-10**|**The Unruh state for bosonic Teukolsky fields on subextreme Kerr spacetimes**|Dietrich Häfner et.al.|[2602.09796](http://arxiv.org/abs/2602.09796)|null|
+|**2026-02-10**|**A Behavioral Fingerprint for Large Language Models: Provenance Tracking via Refusal Vectors**|Zhenyu Xu et.al.|[2602.09434](http://arxiv.org/abs/2602.09434)|null|
+|**2026-02-10**|**TVTSyn: Content-Synchronous Time-Varying Timbre for Streaming Voice Conversion and Anonymization**|Waris Quamer et.al.|[2602.09389](http://arxiv.org/abs/2602.09389)|null|
+|**2026-02-10**|**AfriNLLB: Efficient Translation Models for African Languages**|Yasmin Moslem et.al.|[2602.09373](http://arxiv.org/abs/2602.09373)|null|
+|**2026-02-10**|**Real-space topology and charge order in the Haldane-Holstein Model**|Sebastião dos Anjos Sousa-Júnior et.al.|[2602.09335](http://arxiv.org/abs/2602.09335)|null|
+|**2026-02-10**|**LLM-CoOpt: A Co-Design and Optimization Framework for Efficient LLM Inference on Heterogeneous Platforms**|Jie Kong et.al.|[2602.09323](http://arxiv.org/abs/2602.09323)|null|
+|**2026-02-09**|**Generalizing GNNs with Tokenized Mixture of Experts**|Xiaoguang Guo et.al.|[2602.09258](http://arxiv.org/abs/2602.09258)|null|
+|**2026-02-09**|**UniComp: A Unified Evaluation of Large Language Model Compression via Pruning, Quantization and Distillation**|Jonathan von Rad et.al.|[2602.09130](http://arxiv.org/abs/2602.09130)|null|
 |**2026-02-09**|**Next Concept Prediction in Discrete Latent Space Leads to Stronger Language Models**|Yuliang Liu et.al.|[2602.08984](http://arxiv.org/abs/2602.08984)|null|
 |**2026-02-09**|**DynamiQ: Accelerating Gradient Synchronization using Compressed Multi-hop All-reduce**|Wenchen Han et.al.|[2602.08923](http://arxiv.org/abs/2602.08923)|null|
 |**2026-02-09**|**Kirin: Improving ANN efficiency with SNN Hybridization**|Chenyu Wang et.al.|[2602.08817](http://arxiv.org/abs/2602.08817)|null|
@@ -298,6 +339,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation**|Yucheng Hu et.al.|[2602.09849](http://arxiv.org/abs/2602.09849)|null|
+|**2026-02-10**|**Explainability in Generative Medical Diffusion Models: A Faithfulness-Based Analysis on MRI Synthesis**|Surjo Dey et.al.|[2602.09781](http://arxiv.org/abs/2602.09781)|null|
+|**2026-02-10**|**DiffuReason: Bridging Latent Reasoning and Generative Refinement for Sequential Recommendation**|Jie Jiang et.al.|[2602.09744](http://arxiv.org/abs/2602.09744)|null|
+|**2026-02-10**|**Blind denoising diffusion models and the blessings of dimensionality**|Zahra Kadkhodaie et.al.|[2602.09639](http://arxiv.org/abs/2602.09639)|null|
+|**2026-02-10**|**Advancing Block Diffusion Language Models for Test-Time Scaling**|Yi Lu et.al.|[2602.09555](http://arxiv.org/abs/2602.09555)|null|
+|**2026-02-09**|**Micromolar chemical imaging by high-energy low-photodamage Coherent Anti-stokes Raman Scattering (HELP-CARS)**|Guangrui Ding et.al.|[2602.09245](http://arxiv.org/abs/2602.09245)|null|
 |**2026-02-09**|**ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation**|Zihan Yang et.al.|[2602.09014](http://arxiv.org/abs/2602.09014)|null|
 |**2026-02-09**|**Denoise Stepwise Signals by Diffusion Model Based Approach**|Xingdi Tong et.al.|[2602.08904](http://arxiv.org/abs/2602.08904)|null|
 |**2026-02-09**|**Negative-Aware Diffusion Process for Temporal Knowledge Graph Extrapolation**|Yanglei Gan et.al.|[2602.08815](http://arxiv.org/abs/2602.08815)|null|
@@ -343,6 +390,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**PlugSI: Plug-and-Play Test-Time Graph Adaptation for Spatial Interpolation**|Xuhang Wu et.al.|[2602.09824](http://arxiv.org/abs/2602.09824)|null|
+|**2026-02-10**|**TeleGate: Whole-Body Humanoid Teleoperation via Gated Expert Selection with Motion Prior**|Jie Li et.al.|[2602.09628](http://arxiv.org/abs/2602.09628)|null|
+|**2026-02-10**|**Energy-Efficient Fast Object Detection on Edge Devices for IoT Systems**|Mas Nurul Achmadiah et.al.|[2602.09515](http://arxiv.org/abs/2602.09515)|null|
+|**2026-02-10**|**Performance Comparison of CNN and AST Models with Stacked Features for Environmental Sound Classification**|Parinaz Binandeh Dehaghania et.al.|[2602.09321](http://arxiv.org/abs/2602.09321)|null|
+|**2026-02-09**|**Atlas: Enabling Cross-Vendor Authentication for IoT**|Sanket Goutam et.al.|[2602.09263](http://arxiv.org/abs/2602.09263)|null|
 |**2026-02-09**|**Zero Trust for Multi-RAT IoT: Trust Boundary Management in Heterogeneous Wireless Network Environments**|Jonathan Shelby et.al.|[2602.08989](http://arxiv.org/abs/2602.08989)|null|
 |**2026-02-09**|**Verifying DNN-based Semantic Communication Against Generative Adversarial Noise**|Thanh Le et.al.|[2602.08801](http://arxiv.org/abs/2602.08801)|null|
 |**2026-02-09**|**Empirical Evaluation of SMOTE in Android Malware Detection with Machine Learning: Challenges and Performance in CICMalDroid 2020**|Diego Ferreira Duarte et.al.|[2602.08744](http://arxiv.org/abs/2602.08744)|null|

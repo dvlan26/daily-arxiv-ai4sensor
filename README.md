@@ -62,6 +62,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Learning Force-Regulated Manipulation with a Low-Cost Tactile-Force-Controlled Gripper**|Xuhui Kang et.al.|[2602.10013](http://arxiv.org/abs/2602.10013)|null|
+|**2026-02-10**|**TaCo: A Benchmark for Lossless and Lossy Codecs of Heterogeneous Tactile Data**|Zhengxue Cheng et.al.|[2602.09893](http://arxiv.org/abs/2602.09893)|null|
 |**2026-02-09**|**AI-Driven Cardiorespiratory Signal Processing: Separation, Clustering, and Anomaly Detection**|Yasaman Torabi et.al.|[2602.09210](http://arxiv.org/abs/2602.09210)|null|
 |**2026-02-09**|**A Precise Real-Time Force-Aware Grasping System for Robust Aerial Manipulation**|Kenghou Hoi et.al.|[2602.08599](http://arxiv.org/abs/2602.08599)|null|
 |**2026-02-07**|**Why Look at It at All?: Vision-Free Multifingered Blind Grasping Using Uniaxial Fingertip Force Sensing**|Edgar Lee et.al.|[2602.07326](http://arxiv.org/abs/2602.07326)|null|
@@ -94,6 +96,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Perception with Guarantees: Certified Pose Estimation via Reachability Analysis**|Tobias Ladner et.al.|[2602.10032](http://arxiv.org/abs/2602.10032)|null|
 |**2026-02-10**|**BabyMamba-HAR: Lightweight Selective State Space Models for Efficient Human Activity Recognition on Resource Constrained Devices**|Mridankan Mandal et.al.|[2602.09872](http://arxiv.org/abs/2602.09872)|null|
 |**2026-02-10**|**Fully-automated sleep staging: multicenter validation of a generalizable deep neural network for Parkinson's disease and isolated REM sleep behavior disorder**|Jesper Strøm et.al.|[2602.09793](http://arxiv.org/abs/2602.09793)|null|
 |**2026-02-10**|**Circuit Fingerprints: How Answer Tokens Encode Their Geometrical Path**|Andres Saurez et.al.|[2602.09784](http://arxiv.org/abs/2602.09784)|null|
@@ -198,6 +201,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Position: Message-passing and spectral GNNs are two sides of the same coin**|Antonis Vasileiou et.al.|[2602.10031](http://arxiv.org/abs/2602.10031)|null|
+|**2026-02-10**|**Operationalizing Human Values in the Requirements Engineering Process of Ethics-Aware Autonomous Systems**|Everaldo Silva Júnior et.al.|[2602.09921](http://arxiv.org/abs/2602.09921)|null|
 |**2026-02-10**|**Differentiable Tripartite Modularity for Clustering Heterogeneous Graphs**|Benoît Hurpeau et.al.|[2602.09864](http://arxiv.org/abs/2602.09864)|null|
 |**2026-02-10**|**PlugSI: Plug-and-Play Test-Time Graph Adaptation for Spatial Interpolation**|Xuhang Wu et.al.|[2602.09824](http://arxiv.org/abs/2602.09824)|null|
 |**2026-02-10**|**BRAVA-GNN: Betweenness Ranking Approximation Via Degree MAss Inspired Graph Neural Network**|Justin Dachille et.al.|[2602.09716](http://arxiv.org/abs/2602.09716)|null|
@@ -254,6 +259,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos**|Juncheng Mu et.al.|[2602.10105](http://arxiv.org/abs/2602.10105)|null|
+|**2026-02-10**|**Robo3R: Enhancing Robotic Manipulation with Accurate Feed-Forward 3D Reconstruction**|Sizhe Yang et.al.|[2602.10101](http://arxiv.org/abs/2602.10101)|null|
+|**2026-02-10**|**Evaluating Disentangled Representations for Controllable Music Generation**|Laura Ibáñez-Martínez et.al.|[2602.10058](http://arxiv.org/abs/2602.10058)|null|
 |**2026-02-10**|**Context-Aware Counterfactual Data Augmentation for Gender Bias Mitigation in Language Models**|Shweta Parihar et.al.|[2602.09590](http://arxiv.org/abs/2602.09590)|null|
 |**2026-02-10**|**LEMUR: A Corpus for Robust Fine-Tuning of Multilingual Law Embedding Models for Retrieval**|Narges Baba Ahmadi et.al.|[2602.09570](http://arxiv.org/abs/2602.09570)|null|
 |**2026-02-10**|**HLGFA: High-Low Resolution Guided Feature Alignment for Unsupervised Anomaly Detection**|Han Zhou et.al.|[2602.09524](http://arxiv.org/abs/2602.09524)|null|
@@ -308,6 +316,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Logarithmically slow heat propagation in a clean Josephson-junction chain**|Angelo Russomanno et.al.|[2602.09895](http://arxiv.org/abs/2602.09895)|null|
+|**2026-02-10**|**AdaTSQ: Pushing the Pareto Frontier of Diffusion Transformers via Temporal-Sensitivity Quantization**|Shaoqiu Zhang et.al.|[2602.09883](http://arxiv.org/abs/2602.09883)|null|
 |**2026-02-10**|**BabyMamba-HAR: Lightweight Selective State Space Models for Efficient Human Activity Recognition on Resource Constrained Devices**|Mridankan Mandal et.al.|[2602.09872](http://arxiv.org/abs/2602.09872)|null|
 |**2026-02-10**|**The Unruh state for bosonic Teukolsky fields on subextreme Kerr spacetimes**|Dietrich Häfner et.al.|[2602.09796](http://arxiv.org/abs/2602.09796)|null|
 |**2026-02-10**|**A Behavioral Fingerprint for Large Language Models: Provenance Tracking via Refusal Vectors**|Zhenyu Xu et.al.|[2602.09434](http://arxiv.org/abs/2602.09434)|null|
@@ -364,6 +374,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Causality in Video Diffusers is Separable from Denoising**|Xingjian Bai et.al.|[2602.10095](http://arxiv.org/abs/2602.10095)|null|
 |**2026-02-10**|**BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation**|Yucheng Hu et.al.|[2602.09849](http://arxiv.org/abs/2602.09849)|null|
 |**2026-02-10**|**Explainability in Generative Medical Diffusion Models: A Faithfulness-Based Analysis on MRI Synthesis**|Surjo Dey et.al.|[2602.09781](http://arxiv.org/abs/2602.09781)|null|
 |**2026-02-10**|**DiffuReason: Bridging Latent Reasoning and Generative Refinement for Sequential Recommendation**|Jie Jiang et.al.|[2602.09744](http://arxiv.org/abs/2602.09744)|null|
@@ -417,6 +428,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**BioME: A Resource-Efficient Bioacoustic Foundational Model for IoT Applications**|Heitor R. Guimarães et.al.|[2602.09970](http://arxiv.org/abs/2602.09970)|null|
+|**2026-02-10**|**Doppler Effect: Analyses and Applications in Wireless Sensing and Communications**|Lie-Liang Yang et.al.|[2602.09955](http://arxiv.org/abs/2602.09955)|null|
 |**2026-02-10**|**PlugSI: Plug-and-Play Test-Time Graph Adaptation for Spatial Interpolation**|Xuhang Wu et.al.|[2602.09824](http://arxiv.org/abs/2602.09824)|null|
 |**2026-02-10**|**TeleGate: Whole-Body Humanoid Teleoperation via Gated Expert Selection with Motion Prior**|Jie Li et.al.|[2602.09628](http://arxiv.org/abs/2602.09628)|null|
 |**2026-02-10**|**Energy-Efficient Fast Object Detection on Edge Devices for IoT Systems**|Mas Nurul Achmadiah et.al.|[2602.09515](http://arxiv.org/abs/2602.09515)|null|

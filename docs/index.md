@@ -89,6 +89,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Motion Capture is Not the Target Domain: Scaling Synthetic Data for Learning Motion Representations**|Firas Darwish et.al.|[2602.11064](http://arxiv.org/abs/2602.11064)|null|
 |**2026-02-11**|**Implicit representations via the polynomial method**|Jean Cardinal et.al.|[2602.10922](http://arxiv.org/abs/2602.10922)|null|
 |**2026-02-11**|**Resource-Efficient RGB-Only Action Recognition for Edge Deployment**|Dongsik Yoon et.al.|[2602.10818](http://arxiv.org/abs/2602.10818)|null|
 |**2026-02-11**|**Integrating Generative AI-enhanced Cognitive Systems in Higher Education: From Stakeholder Perceptions to a Conceptual Framework considering the EU AI Act**|Da-Lun Chen et.al.|[2602.10802](http://arxiv.org/abs/2602.10802)|null|
@@ -209,6 +210,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation**|Jialin Liu et.al.|[2602.11062](http://arxiv.org/abs/2602.11062)|null|
+|**2026-02-11**|**Machine learning exploration of binding energy distributions of H2O at astrochemically relevant dust grain surfaces**|Anant Vaishnav et.al.|[2602.11050](http://arxiv.org/abs/2602.11050)|null|
 |**2026-02-11**|**RiemannGL: Riemannian Geometry Changes Graph Deep Learning**|Li Sun et.al.|[2602.10982](http://arxiv.org/abs/2602.10982)|null|
 |**2026-02-11**|**Multi-Modal Track Reconstruction using Graph Neural Networks at Belle II**|Lea Reuter et.al.|[2602.10897](http://arxiv.org/abs/2602.10897)|null|
 |**2026-02-11**|**Exploring the impact of adaptive rewiring in Graph Neural Networks**|Charlotte Cambier van Nooten et.al.|[2602.10754](http://arxiv.org/abs/2602.10754)|null|
@@ -274,6 +277,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**LCIP: Loss-Controlled Inverse Projection of High-Dimensional Image Data**|Yu Wang et.al.|[2602.11141](http://arxiv.org/abs/2602.11141)|null|
+|**2026-02-11**|**SteuerLLM: Local specialized large language model for German tax law analysis**|Sebastian Wind et.al.|[2602.11081](http://arxiv.org/abs/2602.11081)|null|
 |**2026-02-11**|**Healthy Harvests: A Comparative Look at Guava Disease Classification Using InceptionV3**|Samanta Ghosh et.al.|[2602.10967](http://arxiv.org/abs/2602.10967)|null|
 |**2026-02-11**|**Non-centred Bayesian inference for discrete-valued state-transition models: the Rippler algorithm**|James Neill et.al.|[2602.10924](http://arxiv.org/abs/2602.10924)|null|
 |**2026-02-11**|**Self-Supervised Learning for Speaker Recognition: A study and review**|Theo Lepage et.al.|[2602.10829](http://arxiv.org/abs/2602.10829)|null|
@@ -339,6 +344,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation**|Jialin Liu et.al.|[2602.11062](http://arxiv.org/abs/2602.11062)|null|
 |**2026-02-11**|**Enhancing Predictability of Multi-Tenant DNN Inference for Autonomous Vehicles' Perception**|Liangkai Liu et.al.|[2602.11004](http://arxiv.org/abs/2602.11004)|null|
 |**2026-02-11**|**Deformation quantization of symplectic vector fields**|Haoyuan Gao et.al.|[2602.10988](http://arxiv.org/abs/2602.10988)|null|
 |**2026-02-11**|**FastUSP: A Multi-Level Collaborative Acceleration Framework for Distributed Diffusion Model Inference**|Guandong Li et.al.|[2602.10940](http://arxiv.org/abs/2602.10940)|null|
@@ -405,6 +411,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Just on Time: Token-Level Early Stopping for Diffusion Language Models**|Zahar Kohut et.al.|[2602.11133](http://arxiv.org/abs/2602.11133)|null|
+|**2026-02-11**|**From Circuits to Dynamics: Understanding and Stabilizing Failure in 3D Diffusion Transformers**|Maximilian Plattner et.al.|[2602.11130](http://arxiv.org/abs/2602.11130)|null|
+|**2026-02-11**|**FastFlow: Accelerating The Generative Flow Matching Models with Bandit Inference**|Divya Jyoti Bajpai et.al.|[2602.11105](http://arxiv.org/abs/2602.11105)|null|
+|**2026-02-11**|**Embedding Inversion via Conditional Masked Diffusion Language Models**|Han Xiao et.al.|[2602.11047](http://arxiv.org/abs/2602.11047)|null|
 |**2026-02-11**|**Search or Accelerate: Confidence-Switched Position Beam Search for Diffusion Language Models**|Mingyu Cao et.al.|[2602.10953](http://arxiv.org/abs/2602.10953)|null|
 |**2026-02-11**|**Deep and Sparse Denoising Benchmarks for Spectral Data Cubes of High-z Galaxies: From Simulations to ALMA observations**|Arnab Lahiry et.al.|[2602.10893](http://arxiv.org/abs/2602.10893)|null|
 |**2026-02-11**|**Flow caching for autoregressive video generation**|Yuexiao Ma et.al.|[2602.10825](http://arxiv.org/abs/2602.10825)|null|
@@ -465,6 +475,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Digging for Data: Experiments in Rock Pile Characterization Using Only Proprioceptive Sensing in Excavation**|Unal Artan et.al.|[2602.11082](http://arxiv.org/abs/2602.11082)|null|
 |**2026-02-11**|**Architecting Trust: A Framework for Secure IoT Systems Through Trusted Execution and Semantic Middleware**|Muhammad Imran et.al.|[2602.10762](http://arxiv.org/abs/2602.10762)|null|
 |**2026-02-11**|**Omnidirectional Dual-Arm Aerial Manipulator with Proprioceptive Contact Localization for Landing on Slanted Roofs**|Martijn B. J. Brummelhuis et.al.|[2602.10703](http://arxiv.org/abs/2602.10703)|null|
 |**2026-02-11**|**Co-jump: Cooperative Jumping with Quadrupedal Robots via Multi-Agent Reinforcement Learning**|Shihao Dong et.al.|[2602.10514](http://arxiv.org/abs/2602.10514)|null|

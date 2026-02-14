@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**WaveFormer: Wavelet Embedding Transformer for Biomedical Signals**|Habib Irani et.al.|[2602.12189](http://arxiv.org/abs/2602.12189)|null|
 |**2026-02-12**|**Spectro-timing origin of large amplitude X-ray variability in GRS 1915+105 using AstroSat/LAXPC and SXT**|Shree Suman et.al.|[2602.11876](http://arxiv.org/abs/2602.11876)|null|
 |**2026-02-12**|**Understanding coronal geometry in NGC 4593 using Fourier frequency-resolved covariance and time-lag spectral analysis**|Shree Suman et.al.|[2602.11624](http://arxiv.org/abs/2602.11624)|null|
 |**2026-02-11**|**GECAM discovery of the second FRB-associated Magnetar X-ray Burst from SGR J1935+2154**|Chen-Wei Wang et.al.|[2602.10895](http://arxiv.org/abs/2602.10895)|null|
@@ -92,6 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**WaveFormer: Wavelet Embedding Transformer for Biomedical Signals**|Habib Irani et.al.|[2602.12189](http://arxiv.org/abs/2602.12189)|null|
 |**2026-02-12**|**Projected Representation Conditioning for High-fidelity Novel View Synthesis**|Min-Seop Kwak et.al.|[2602.12003](http://arxiv.org/abs/2602.12003)|null|
 |**2026-02-12**|**Experimental challenges and prospects for quantum-enhanced energy conversion: Stationary Fano coherence in V-type qutrits interacting with polarized incoherent radiation**|Ludovica Donati et.al.|[2602.11695](http://arxiv.org/abs/2602.11695)|null|
 |**2026-02-12**|**Supervise-assisted Multi-modality Fusion Diffusion Model for PET Restoration**|Yingkai Zhang et.al.|[2602.11545](http://arxiv.org/abs/2602.11545)|null|
@@ -165,6 +167,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**EO-VAE: Towards A Multi-sensor Tokenizer for Earth Observation Data**|Nils Lehmann et.al.|[2602.12177](http://arxiv.org/abs/2602.12177)|null|
 |**2026-02-12**|**Enhanced Forest Inventories for Habitat Mapping: A Case Study in the Sierra Nevada Mountains of California**|Maxime Turgeon et.al.|[2602.12072](http://arxiv.org/abs/2602.12072)|null|
 |**2026-02-12**|**Non-signaling Assisted Capacity of a Classical Channel with Causal CSIT**|Yuhang Yao et.al.|[2602.11568](http://arxiv.org/abs/2602.11568)|null|
 |**2026-02-12**|**Radar Sensing using Dual-Beam Reconfigurable Intelligent Surface**|Kainat Yasmeen et.al.|[2602.11473](http://arxiv.org/abs/2602.11473)|null|
@@ -230,6 +233,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Community Concealment from Unsupervised Graph Learning-Based Clustering**|Dalyapraz Manatova et.al.|[2602.12250](http://arxiv.org/abs/2602.12250)|null|
+|**2026-02-12**|**Towards Personalized Bangla Book Recommendation: A Large-Scale Multi-Entity Book Graph Dataset**|Rahin Arefin Ahmed et.al.|[2602.12129](http://arxiv.org/abs/2602.12129)|null|
 |**2026-02-12**|**Geometry of Uncertainty: Learning Metric Spaces for Multimodal State Estimation in RL**|Alfredo Reichlin et.al.|[2602.12087](http://arxiv.org/abs/2602.12087)|null|
 |**2026-02-12**|**SpaTeoGL: Spatiotemporal Graph Learning for Interpretable Seizure Onset Zone Analysis from Intracranial EEG**|Elham Rostami et.al.|[2602.11801](http://arxiv.org/abs/2602.11801)|null|
 |**2026-02-12**|**Both Topology and Text Matter: Revisiting LLM-guided Out-of-Distribution Detection on Text-attributed Graphs**|Yinlin Zhu et.al.|[2602.11641](http://arxiv.org/abs/2602.11641)|null|
@@ -453,6 +458,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**MonarchRT: Efficient Attention for Real-Time Video Generation**|Krish Agarwal et.al.|[2602.12271](http://arxiv.org/abs/2602.12271)|null|
+|**2026-02-12**|**Diffusion Alignment Beyond KL: Variance Minimisation as Effective Policy Optimiser**|Zijing Ou et.al.|[2602.12229](http://arxiv.org/abs/2602.12229)|null|
 |**2026-02-12**|**Synthesis of Late Gadolinium Enhancement Images via Implicit Neural Representations for Cardiac Scar Segmentation**|Soufiane Ben Haddou et.al.|[2602.11942](http://arxiv.org/abs/2602.11942)|null|
 |**2026-02-12**|**Recurrent Preference Memory for Efficient Long-Sequence Generative Recommendation**|Yixiao Chen et.al.|[2602.11605](http://arxiv.org/abs/2602.11605)|null|
 |**2026-02-12**|**Learn from Your Mistakes: Self-Correcting Masked Diffusion Models**|Yair Schiff et.al.|[2602.11590](http://arxiv.org/abs/2602.11590)|null|
@@ -526,6 +533,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Unknown Attack Detection in IoT Networks using Large Language Models: A Robust, Data-efficient Approach**|Shan Ali et.al.|[2602.12183](http://arxiv.org/abs/2602.12183)|null|
 |**2026-02-12**|**When would Vision-Proprioception Policies Fail in Robotic Manipulation?**|Jingxian Lu et.al.|[2602.12032](http://arxiv.org/abs/2602.12032)|null|
 |**2026-02-12**|**An Auction-Based Mechanism for Optimal Task Allocation and Resource Aware Containerization**|Ramakant kumar et.al.|[2602.11998](http://arxiv.org/abs/2602.11998)|null|
 |**2026-02-12**|**HAIC: Humanoid Agile Object Interaction Control via Dynamics-Aware World Model**|Dongting Li et.al.|[2602.11758](http://arxiv.org/abs/2602.11758)|null|

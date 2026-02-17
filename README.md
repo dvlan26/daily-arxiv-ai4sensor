@@ -20,6 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Generalization from Low- to Moderate-Resolution Spectra with Neural Networks for Stellar Parameter Estimation: A Case Study with DESI**|Xiaosheng Zhao et.al.|[2602.15021](http://arxiv.org/abs/2602.15021)|null|
+|**2026-02-16**|**A physics inspired and efficient transform for optoacoustic systems**|Maria Rodriguez Saenz de Tejada et.al.|[2602.14803](http://arxiv.org/abs/2602.14803)|null|
+|**2026-02-15**|**Complex Wavelet-Based Sinogram Segmentation for Metal Artifact Reduction in Cone-Beam CT**|Siiri Rautio et.al.|[2602.14315](http://arxiv.org/abs/2602.14315)|null|
+|**2026-02-15**|**Learnable Multi-level Discrete Wavelet Transforms for 3D Gaussian Splatting Frequency Modulation**|Hung Nguyen et.al.|[2602.14199](http://arxiv.org/abs/2602.14199)|null|
+|**2026-02-15**|**Spectral Theory of Fractional Cooperative Systems and Threshold Dynamics in Epidemic Models**|Cong-Bang Trang et.al.|[2602.13986](http://arxiv.org/abs/2602.13986)|null|
+|**2026-02-14**|**Causally coherent structures in turbulent dynamical systems**|Daniele Massaro et.al.|[2602.13899](http://arxiv.org/abs/2602.13899)|null|
+|**2026-02-14**|**Twenty-five years of J-DSP Online Labs for Signal Processing Classes and Workforce Development Programs**|Andreas Spanias et.al.|[2602.13863](http://arxiv.org/abs/2602.13863)|null|
+|**2026-02-13**|**Frequency-Enhanced Hilbert Scanning Mamba for Short-Term Arctic Sea Ice Concentration Prediction**|Feng Gao et.al.|[2602.13522](http://arxiv.org/abs/2602.13522)|null|
 |**2026-02-13**|**V515 And: An Intermediate Polar in the Period Gap Exhibiting Outbursts**|Srinivas M Rao et.al.|[2602.13153](http://arxiv.org/abs/2602.13153)|null|
 |**2026-02-13**|**EXCODER: EXplainable Classification Of DiscretE time series Representations**|Yannik Hahn et.al.|[2602.13087](http://arxiv.org/abs/2602.13087)|null|
 |**2026-02-13**|**SIEFormer: Spectral-Interpretable and -Enhanced Transformer for Generalized Category Discovery**|Chunming Li et.al.|[2602.13067](http://arxiv.org/abs/2602.13067)|null|
@@ -76,6 +84,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-15**|**Existence and nonexistence of solutions for fractional elliptic equations arising from closed MEMS model**|Huyuan Chen et.al.|[2602.14346](http://arxiv.org/abs/2602.14346)|null|
+|**2026-02-14**|**Semantic-Contact Fields for Category-Level Generalizable Tactile Tool Manipulation**|Kevin Yuchen Ma et.al.|[2602.13833](http://arxiv.org/abs/2602.13833)|null|
+|**2026-02-14**|**Symmetry-Aware Fusion of Vision and Tactile Sensing via Bilateral Force Priors for Robotic Manipulation**|Wonju Lee et.al.|[2602.13689](http://arxiv.org/abs/2602.13689)|null|
 |**2026-02-13**|**Adding internal audio sensing to internal vision enables human-like in-hand fabric recognition with soft robotic fingertips**|Iris Andrussow et.al.|[2602.12918](http://arxiv.org/abs/2602.12918)|null|
 |**2026-02-13**|**Sperner state and multipartite entanglement signals**|Xin-Xiang Ju et.al.|[2602.12664](http://arxiv.org/abs/2602.12664)|null|
 |**2026-02-12**|**Assessing Low Back Movement with Motion Tape Sensor Data Through Deep Learning**|Jared Levy et.al.|[2602.11465](http://arxiv.org/abs/2602.11465)|null|
@@ -116,6 +127,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**TouchFusion: Multimodal Wristband Sensing for Ubiquitous Touch Interactions**|Eric Whitmire et.al.|[2602.15011](http://arxiv.org/abs/2602.15011)|null|
+|**2026-02-16**|**Algorithmic Simplification of Neural Networks with Mosaic-of-Motifs**|Pedram Bakhtiarifard et.al.|[2602.14896](http://arxiv.org/abs/2602.14896)|null|
+|**2026-02-16**|**Near-Linear Time Computation of Welzl Orders on Graphs with Linear Neighborhood Complexity**|Jan Dreier et.al.|[2602.14625](http://arxiv.org/abs/2602.14625)|null|
+|**2026-02-16**|**YOLO26: A Comprehensive Architecture Overview and Key Improvements**|Priyanto Hidayatullah et.al.|[2602.14582](http://arxiv.org/abs/2602.14582)|null|
+|**2026-02-16**|**Learning Proposes, Geometry Disposes: A Modular Framework for Efficient Spatial Reasoning**|Haichao Zhu et.al.|[2602.14409](http://arxiv.org/abs/2602.14409)|null|
+|**2026-02-15**|**KernelBlaster: Continual Cross-Task CUDA Optimization via Memory-Augmented In-Context Reinforcement Learning**|Kris Shengjun Dong et.al.|[2602.14293](http://arxiv.org/abs/2602.14293)|null|
+|**2026-02-15**|**Enhancing collective spin squeezing via one-axis twisting echo control of individual atoms**|Zhiwei Hu et.al.|[2602.14036](http://arxiv.org/abs/2602.14036)|null|
+|**2026-02-15**|**BRAIN: Bayesian Reasoning via Active Inference for Agentic and Embodied Intelligence in Mobile Networks**|Osman Tugay Basaran et.al.|[2602.14033](http://arxiv.org/abs/2602.14033)|null|
+|**2026-02-15**|**Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow**|Shenhan Qian et.al.|[2602.14021](http://arxiv.org/abs/2602.14021)|null|
+|**2026-02-14**|**Ultrasensitive strain modulation of terahertz magnons at a magnetic phase transition**|Lichen Wang et.al.|[2602.13924](http://arxiv.org/abs/2602.13924)|null|
 |**2026-02-13**|**Multimodal Classification via Total Correlation Maximization**|Feng Yu et.al.|[2602.13015](http://arxiv.org/abs/2602.13015)|null|
 |**2026-02-13**|**Quantum metrology with partially accessible chaotic sensors**|Harshita Sharma et.al.|[2602.12914](http://arxiv.org/abs/2602.12914)|null|
 |**2026-02-12**|**Task- and Metric-Specific Signal Quality Indices for Medical Time Series**|Jad Haidamous et.al.|[2602.12478](http://arxiv.org/abs/2602.12478)|null|
@@ -195,6 +216,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**The Physical Properties of PS1-12sk and the Implications to Its Progenitor System**|Kai-Li Mi et.al.|[2602.14427](http://arxiv.org/abs/2602.14427)|null|
+|**2026-02-15**|**Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding**|Fengxiang Wang et.al.|[2602.14225](http://arxiv.org/abs/2602.14225)|null|
+|**2026-02-15**|**GeoEyes: On-Demand Visual Focusing for Evidence-Grounded Understanding of Ultra-High-Resolution Remote Sensing Imagery**|Fengxiang Wang et.al.|[2602.14201](http://arxiv.org/abs/2602.14201)|null|
+|**2026-02-15**|**Robust SAC-Enabled UAV-RIS Assisted Secure MISO Systems With Untrusted EH Receivers**|Hamid Reza Hashempour et.al.|[2602.14191](http://arxiv.org/abs/2602.14191)|null|
+|**2026-02-15**|**Rethinking RSSI for WiFi Sensing**|Zhongqin Wang et.al.|[2602.14004](http://arxiv.org/abs/2602.14004)|null|
+|**2026-02-15**|**Lightweight Range-Angle Imaging Based Algorithm for Quasi-Static Human Detection on Low-Cost FMCW Radar**|Huy Trinh et.al.|[2602.14001](http://arxiv.org/abs/2602.14001)|null|
+|**2026-02-15**|**Efficient Off-Grid Near-Field Cascade Channel Estimation for XL-IRS Systems via Tucker Decomposition**|Wenzhou Cao et.al.|[2602.13988](http://arxiv.org/abs/2602.13988)|null|
+|**2026-02-14**|**Foundation Model-Driven Semantic Change Detection in Remote Sensing Imagery**|Hengtong Shen et.al.|[2602.13780](http://arxiv.org/abs/2602.13780)|null|
+|**2026-02-14**|**Scenario-Adaptive MU-MIMO OFDM Semantic Communication With Asymmetric Neural Network**|Chongyang Li et.al.|[2602.13557](http://arxiv.org/abs/2602.13557)|null|
+|**2026-02-13**|**Distributed Edge Computing Task Allocation with Network Effects**|Henry Abrahamson et.al.|[2602.13514](http://arxiv.org/abs/2602.13514)|null|
 |**2026-02-13**|**Data Augmentation and Attention for massive MIMO-based Indoor Localization in Changing Environments**|Luisa Schuhmacher et.al.|[2602.12954](http://arxiv.org/abs/2602.12954)|null|
 |**2026-02-13**|**FPNet: Joint Wi-Fi Beamforming Matrix Feedback and Anomaly-Aware Indoor Positioning**|Ran Tao et.al.|[2602.12799](http://arxiv.org/abs/2602.12799)|null|
 |**2026-02-13**|**CBEN -- A Multimodal Machine Learning Dataset for Cloud Robust Remote Sensing Image Understanding**|Marco Stricker et.al.|[2602.12652](http://arxiv.org/abs/2602.12652)|null|
@@ -270,6 +301,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Spectral Convolution on Orbifolds for Geometric Deep Learning**|Tim Mangliers et.al.|[2602.14997](http://arxiv.org/abs/2602.14997)|null|
+|**2026-02-16**|**Learning Structural Hardness for Combinatorial Auctions: Instance-Dependent Algorithm Selection via Graph Neural Networks**|Sungwoo Kang et.al.|[2602.14772](http://arxiv.org/abs/2602.14772)|null|
+|**2026-02-16**|**Systematic Review of Lightweight Cryptographic Algorithms**|Mohsin Khan et.al.|[2602.14731](http://arxiv.org/abs/2602.14731)|null|
+|**2026-02-16**|**Bayesian Cosmic Void Finding with Graph Flows**|Leander Thiele et.al.|[2602.14630](http://arxiv.org/abs/2602.14630)|null|
+|**2026-02-16**|**DCTracks: An Open Dataset for Machine Learning-Based Drift Chamber Track Reconstruction**|Qian Liyan et.al.|[2602.14571](http://arxiv.org/abs/2602.14571)|null|
+|**2026-02-15**|**Bridging the Urban Divide: Adaptive Cross-City Learning for Disaster Sentiment Understanding**|Zihui Ma et.al.|[2602.14352](http://arxiv.org/abs/2602.14352)|null|
+|**2026-02-15**|**Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions**|Ruomeng Ding et.al.|[2602.14279](http://arxiv.org/abs/2602.14279)|null|
+|**2026-02-15**|**A Hybrid TGN-SEAL Model for Dynamic Graph Link Prediction**|Nafiseh Sadat Sajadi et.al.|[2602.14239](http://arxiv.org/abs/2602.14239)|null|
+|**2026-02-14**|**GREPO: A Benchmark for Graph Neural Networks on Repository-Level Bug Localization**|Juntong Wang et.al.|[2602.13921](http://arxiv.org/abs/2602.13921)|null|
+|**2026-02-14**|**Symmetry-Aware Fusion of Vision and Tactile Sensing via Bilateral Force Priors for Robotic Manipulation**|Wonju Lee et.al.|[2602.13689](http://arxiv.org/abs/2602.13689)|null|
 |**2026-02-13**|**Learning to Approximate Uniform Facility Location via Graph Neural Networks**|Chendi Qian et.al.|[2602.13155](http://arxiv.org/abs/2602.13155)|null|
 |**2026-02-13**|**FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics**|Pingzhi Li et.al.|[2602.13140](http://arxiv.org/abs/2602.13140)|null|
 |**2026-02-13**|**Which Algorithms Can Graph Neural Networks Learn?**|Solveig Wittig et.al.|[2602.13106](http://arxiv.org/abs/2602.13106)|null|
@@ -352,6 +393,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Hidden Markov Individual-level Models of Infectious Disease Transmission**|Dirk Douwes-Schultz et.al.|[2602.15007](http://arxiv.org/abs/2602.15007)|null|
+|**2026-02-16**|**Coverage Guarantees for Pseudo-Calibrated Conformal Prediction under Distribution Shift**|Farbod Siahkali et.al.|[2602.14913](http://arxiv.org/abs/2602.14913)|null|
+|**2026-02-16**|**Testimole-Conversational: A 30-Billion-Word Italian Discussion Board Corpus (1996-2024) for Language Modeling and Sociolinguistic Research**|Matteo Rinaldi et.al.|[2602.14819](http://arxiv.org/abs/2602.14819)|null|
+|**2026-02-16**|**Data Augmentation for Pathological Speech Enhancement**|Mingchi Hou et.al.|[2602.14671](http://arxiv.org/abs/2602.14671)|null|
+|**2026-02-16**|**Breaking Data Efficiency Dilemma: A Federated and Augmented Learning Framework For Alzheimer's Disease Detection via Speech**|Xiao Wei et.al.|[2602.14655](http://arxiv.org/abs/2602.14655)|null|
+|**2026-02-16**|**MedVAR: Towards Scalable and Efficient Medical Image Generation via Next-scale Autoregressive Prediction**|Zhicheng He et.al.|[2602.14512](http://arxiv.org/abs/2602.14512)|null|
+|**2026-02-16**|**The geometry of invariant learning: an information-theoretic analysis of data augmentation and generalization**|Abdelali Bouyahia et.al.|[2602.14423](http://arxiv.org/abs/2602.14423)|null|
+|**2026-02-16**|**A Generative AI Approach for Reducing Skin Tone Bias in Skin Cancer Classification**|Areez Muhammed Shabu et.al.|[2602.14356](http://arxiv.org/abs/2602.14356)|null|
+|**2026-02-15**|**Bridging the Urban Divide: Adaptive Cross-City Learning for Disaster Sentiment Understanding**|Zihui Ma et.al.|[2602.14352](http://arxiv.org/abs/2602.14352)|null|
+|**2026-02-15**|**Direction Matters: Learning Force Direction Enables Sim-to-Real Contact-Rich Manipulation**|Yifei Yang et.al.|[2602.14174](http://arxiv.org/abs/2602.14174)|null|
 |**2026-02-13**|**Data Augmentation and Attention for massive MIMO-based Indoor Localization in Changing Environments**|Luisa Schuhmacher et.al.|[2602.12954](http://arxiv.org/abs/2602.12954)|null|
 |**2026-02-13**|**Beyond Benchmarks of IUGC: Rethinking Requirements of Deep Learning Methods for Intrapartum Ultrasound Biometry from Fetal Ultrasound Videos**|Jieyun Bai et.al.|[2602.12922](http://arxiv.org/abs/2602.12922)|null|
 |**2026-02-13**|**ViMedCSS: A Vietnamese Medical Code-Switching Speech Dataset & Benchmark**|Tung X. Nguyen et.al.|[2602.12911](http://arxiv.org/abs/2602.12911)|null|
@@ -437,6 +488,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Controlled Theory of Skyrmion Chern Bands in Moiré Quantum Materials: Quantum Geometry and Collective Dynamics**|Yi-Hsien Du et.al.|[2602.15016](http://arxiv.org/abs/2602.15016)|null|
+|**2026-02-16**|**Rotational Quantum Friction via Spontaneous Decay**|Nicolas Schüler et.al.|[2602.14992](http://arxiv.org/abs/2602.14992)|null|
+|**2026-02-16**|**Algorithmic Simplification of Neural Networks with Mosaic-of-Motifs**|Pedram Bakhtiarifard et.al.|[2602.14896](http://arxiv.org/abs/2602.14896)|null|
+|**2026-02-16**|**Spin qubit shuttling between coupled quantum dots with inhomogeneous Landé g-tensors**|Zhi-Hai Liu et.al.|[2602.14782](http://arxiv.org/abs/2602.14782)|null|
+|**2026-02-16**|**Hierarchical parameter estimation for distributed networked systems: a dynamic consensus approach**|Ariana R. Mendez-Castillo et.al.|[2602.14765](http://arxiv.org/abs/2602.14765)|null|
+|**2026-02-16**|**Realization of a Synthetic Hall Torus with a Spinor Bose-Einstein Condensate**|T. -H. Chien et.al.|[2602.14549](http://arxiv.org/abs/2602.14549)|null|
+|**2026-02-16**|**Fermionic Stoner-Dicke phase transition in Circuit Quantum Magnetostatics**|Adel Ali et.al.|[2602.14437](http://arxiv.org/abs/2602.14437)|null|
+|**2026-02-16**|**S2D: Selective Spectral Decay for Quantization-Friendly Conditioning of Neural Activations**|Arnav Chavan et.al.|[2602.14432](http://arxiv.org/abs/2602.14432)|null|
+|**2026-02-15**|**Low-Cost Physical-Layer Security Design for IRS-Assisted mMIMO Systems with One-Bit DACs**|Weijie Xiong et.al.|[2602.14292](http://arxiv.org/abs/2602.14292)|null|
+|**2026-02-15**|**Jackiw-Teitelboim Gravity from Holonomies: Discrete BF Formulation and Boundary Symmetries**|H. T. Özer et.al.|[2602.14079](http://arxiv.org/abs/2602.14079)|null|
 |**2026-02-13**|**Quantization-Robust LLM Unlearning via Low-Rank Adaptation**|João Vitor Boer Abitante et.al.|[2602.13151](http://arxiv.org/abs/2602.13151)|null|
 |**2026-02-13**|**FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics**|Pingzhi Li et.al.|[2602.13140](http://arxiv.org/abs/2602.13140)|null|
 |**2026-02-13**|**EXCODER: EXplainable Classification Of DiscretE time series Representations**|Yannik Hahn et.al.|[2602.13087](http://arxiv.org/abs/2602.13087)|null|
@@ -526,6 +587,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Rethinking Diffusion Models with Symmetries through Canonicalization with Applications to Molecular Graph Generation**|Cai Zhou et.al.|[2602.15022](http://arxiv.org/abs/2602.15022)|null|
+|**2026-02-16**|**MacroGuide: Topological Guidance for Macrocycle Generation**|Alicja Maksymiuk et.al.|[2602.14977](http://arxiv.org/abs/2602.14977)|null|
+|**2026-02-15**|**MAGE: All-[MASK] Block Already Knows Where to Look in Diffusion LLM**|Omin Kwon et.al.|[2602.14209](http://arxiv.org/abs/2602.14209)|null|
+|**2026-02-15**|**Why Self-Training Helps and Hurts: Denoising vs. Signal Forgetting**|Mingqi Wu et.al.|[2602.14029](http://arxiv.org/abs/2602.14029)|null|
+|**2026-02-15**|**Rethinking RSSI for WiFi Sensing**|Zhongqin Wang et.al.|[2602.14004](http://arxiv.org/abs/2602.14004)|null|
+|**2026-02-14**|**Prior-guided Hierarchical Instance-pixel Contrastive Learning for Ultrasound Speckle Noise Suppression**|Zhenyu Bu et.al.|[2602.13831](http://arxiv.org/abs/2602.13831)|null|
+|**2026-02-14**|**Physics Aware Neural Networks: Denoising for Magnetic Navigation**|Aritra Das et.al.|[2602.13690](http://arxiv.org/abs/2602.13690)|null|
+|**2026-02-14**|**Diff-Aid: Inference-time Adaptive Interaction Denoising for Rectified Text-to-Image Generation**|Binglei Li et.al.|[2602.13585](http://arxiv.org/abs/2602.13585)|null|
+|**2026-02-13**|**Feasibility of simultaneous EEG-fMRI at 0.55 T: Recording, Denoising, and Functional Mapping**|Parsa Razmara et.al.|[2602.13489](http://arxiv.org/abs/2602.13489)|null|
+|**2026-02-13**|**FUTON: Fourier Tensor Network for Implicit Neural Representations**|Pooya Ashtari et.al.|[2602.13414](http://arxiv.org/abs/2602.13414)|null|
 |**2026-02-13**|**Curriculum-DPO++: Direct Preference Optimization via Data and Model Curricula for Text-to-Image Generation**|Florinel-Alin Croitoru et.al.|[2602.13055](http://arxiv.org/abs/2602.13055)|null|
 |**2026-02-13**|**Efficient Plug-and-Play method for Dynamic Imaging Via Kalman Smoothing**|Benjamin Hawkes et.al.|[2602.13043](http://arxiv.org/abs/2602.13043)|null|
 |**2026-02-13**|**A two-step approach for speech enhancement in low-SNR scenarios using cyclostationary beamforming and DNNs**|Giovanni Bologni et.al.|[2602.12986](http://arxiv.org/abs/2602.12986)|null|
@@ -613,6 +684,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-16**|**Real-time Range-Angle Estimation and Tag Localization for Multi-static Backscatter Systems**|Tara Esmaeilbeig et.al.|[2602.14985](http://arxiv.org/abs/2602.14985)|null|
+|**2026-02-16**|**Systematic Review of Lightweight Cryptographic Algorithms**|Mohsin Khan et.al.|[2602.14731](http://arxiv.org/abs/2602.14731)|null|
+|**2026-02-16**|**Synthetic Aperture Communication: Principles and Application to Massive IoT Satellite Uplink**|Lucas Giroto et.al.|[2602.14629](http://arxiv.org/abs/2602.14629)|null|
+|**2026-02-16**|**LongAudio-RAG: Event-Grounded Question Answering over Multi-Hour Long Audio**|Naveen Vakada et.al.|[2602.14612](http://arxiv.org/abs/2602.14612)|null|
+|**2026-02-16**|**ASA: Adaptive Smart Agent Federated Learning via Device-Aware Clustering for Heterogeneous IoT**|Ali Salimi et.al.|[2602.14391](http://arxiv.org/abs/2602.14391)|null|
+|**2026-02-14**|**High-fidelity 3D reconstruction for planetary exploration**|Alfonso Martínez-Petersen et.al.|[2602.13909](http://arxiv.org/abs/2602.13909)|null|
+|**2026-02-14**|**Hierarchical Audio-Visual-Proprioceptive Fusion for Precise Robotic Manipulation**|Siyuan Li et.al.|[2602.13640](http://arxiv.org/abs/2602.13640)|null|
+|**2026-02-14**|**Discrete-Space Generative AI Pipeline for Semantic Transmission of Signals**|Silvija Kokalj-Filipovic et.al.|[2602.13556](http://arxiv.org/abs/2602.13556)|null|
 |**2026-02-13**|**SENSE-STEP: Learning Sim-to-Real Locomotion for a Sensory-Enabled Soft Quadruped Robot**|Storm de Kam et.al.|[2602.13078](http://arxiv.org/abs/2602.13078)|null|
 |**2026-02-13**|**Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic**|Shuai Liu et.al.|[2602.13071](http://arxiv.org/abs/2602.13071)|null|
 |**2026-02-13**|**Backdoor Attacks on Contrastive Continual Learning for IoT Systems**|Alfous Tim et.al.|[2602.13062](http://arxiv.org/abs/2602.13062)|null|

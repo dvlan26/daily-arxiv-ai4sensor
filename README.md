@@ -352,6 +352,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**CubeSounder: Low SWaP-C 180 GHz Radiometer for Atmospheric Sensing Tested on High Altitude Balloons**|Kyle D. Massingill et.al.|[2602.23338](http://arxiv.org/abs/2602.23338)|null|
 |**2026-02-26**|**No Labels, No Look-Ahead: Unsupervised Online Video Stabilization with Classical Priors**|Tao Liu et.al.|[2602.23141](http://arxiv.org/abs/2602.23141)|null|
 |**2026-02-26**|**Digital Twin-Based Beamforming for Interference Mitigation in AF Relay MIMO Systems**|Alexander Bonora et.al.|[2602.22991](http://arxiv.org/abs/2602.22991)|null|
 |**2026-02-26**|**CSI-RFF: Leveraging Micro-Signals on CSI for RF Fingerprinting of Commodity WiFi**|Ruiqi Kong et.al.|[2602.22738](http://arxiv.org/abs/2602.22738)|null|
@@ -487,6 +488,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**Deep ensemble graph neural networks for probabilistic cosmic-ray direction and energy reconstruction in autonomous radio arrays**|Arsène Ferrière et.al.|[2602.23321](http://arxiv.org/abs/2602.23321)|null|
+|**2026-02-26**|**Analogue many-body gravitating quantum systems with a network of dipolar Bose-Einstein condensates**|Youssef Trifa et.al.|[2602.23319](http://arxiv.org/abs/2602.23319)|null|
+|**2026-02-26**|**Real-Time Stream Compaction for Sparse Machine Learning on FPGAs**|Marc Neu et.al.|[2602.23281](http://arxiv.org/abs/2602.23281)|null|
 |**2026-02-26**|**A Perspective on Open Challenges in Deformable Object Manipulation**|Ryan Paul McKennaa et.al.|[2602.22998](http://arxiv.org/abs/2602.22998)|null|
 |**2026-02-26**|**RepSPD: Enhancing SPD Manifold Representation in EEGs via Dynamic Graphs**|Haohui Jia et.al.|[2602.22981](http://arxiv.org/abs/2602.22981)|null|
 |**2026-02-26**|**SPD Learn: A Geometric Deep Learning Python Library for Neural Decoding Through Trivialization**|Bruno Aristimunha et.al.|[2602.22895](http://arxiv.org/abs/2602.22895)|null|
@@ -823,6 +827,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**FlashOptim: Optimizers for Memory Efficient Training**|Jose Javier Gonzalez Ortiz et.al.|[2602.23349](http://arxiv.org/abs/2602.23349)|null|
+|**2026-02-26**|**Millimeter-Wave RIS: Hardware Design and System-Level Considerations**|Ruiqi Wang et.al.|[2602.23345](http://arxiv.org/abs/2602.23345)|null|
+|**2026-02-26**|**Bitwise Systolic Array Architecture for Runtime-Reconfigurable Multi-precision Quantized Multiplication on Hardware Accelerators**|Yuhao Liu et.al.|[2602.23334](http://arxiv.org/abs/2602.23334)|null|
 |**2026-02-26**|**A Scaling Law for Bandwidth Under Quantization**|Maximilian Kalcher et.al.|[2602.23252](http://arxiv.org/abs/2602.23252)|null|
 |**2026-02-26**|**Hadron spectroscopy and interactions**|Jeremy R. Green et.al.|[2602.23244](http://arxiv.org/abs/2602.23244)|null|
 |**2026-02-26**|**The smallest quantum Mackey deformation**|Yvann Gaudillot-Estrada et.al.|[2602.23222](http://arxiv.org/abs/2602.23222)|null|
@@ -1005,6 +1012,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation**|Ayush Roy et.al.|[2602.23295](http://arxiv.org/abs/2602.23295)|null|
 |**2026-02-26**|**Plug-and-Play Diffusion Meets ADMM: Dual-Variable Coupling for Robust Medical Image Reconstruction**|Chenhe Du et.al.|[2602.23214](http://arxiv.org/abs/2602.23214)|null|
 |**2026-02-26**|**From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation**|Ruochen Yang et.al.|[2602.23132](http://arxiv.org/abs/2602.23132)|null|
 |**2026-02-26**|**D-FINE-seg: Object Detection and Instance Segmentation Framework with multi-backend deployment**|Argo Saakyan et.al.|[2602.23043](http://arxiv.org/abs/2602.23043)|null|

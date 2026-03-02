@@ -189,6 +189,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images**|Junhwa Hur et.al.|[2602.24290](http://arxiv.org/abs/2602.24290)|null|
 |**2026-02-27**|**Nanoelectronics with Two Dimensional Magnets**|Bing Zhao et.al.|[2602.24046](http://arxiv.org/abs/2602.24046)|null|
 |**2026-02-27**|**Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking**|Zhicheng Fang et.al.|[2602.24009](http://arxiv.org/abs/2602.24009)|null|
 |**2026-02-27**|**SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking**|Qiuyang Zhang et.al.|[2602.23963](http://arxiv.org/abs/2602.23963)|null|

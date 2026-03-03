@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-01**|**Navigating Time's Possibilities: Plausible Counterfactual Explanations for Multivariate Time-Series Forecast through Genetic Algorithms**|Gianlucca Zuin et.al.|[2603.00855](http://arxiv.org/abs/2603.00855)|null|
+|**2026-02-28**|**Wavelet-based Frame Selection by Detecting Semantic Boundary for Long Video Understanding**|Wang Chen et.al.|[2603.00512](http://arxiv.org/abs/2603.00512)|null|
+|**2026-02-27**|**Constraining the synchrotron peak and estimating the VHE brightness of a sample of extreme high synchrotron peak blazars**|Federica Sibani et.al.|[2603.00234](http://arxiv.org/abs/2603.00234)|null|
 |**2026-02-27**|**Discovery of a runaway star likely ejected by a Type Iax Supernova**|A. Bhat et.al.|[2602.23900](http://arxiv.org/abs/2602.23900)|null|
 |**2026-02-27**|**The $*$ -algebra of unbounded GLT: construction and theoretical foundations**|Andrea Adriani et.al.|[2602.23879](http://arxiv.org/abs/2602.23879)|null|
 |**2026-02-27**|**Comb-locked cavity ring-down spectroscopy of CO2 at 2-micron wavelength**|Muhammad Asad Khan et.al.|[2602.23812](http://arxiv.org/abs/2602.23812)|null|
@@ -120,6 +123,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-28**|**Mechanically Assisted Symmetry Reconstruction for Extraordinary Piezoelectricity**|Jinhui Fan et.al.|[2603.00740](http://arxiv.org/abs/2603.00740)|null|
 |**2026-02-26**|**Grasp, Slide, Roll: Comparative Analysis of Contact Modes for Tactile-Based Shape Reconstruction**|Chung Hee Kim et.al.|[2602.23206](http://arxiv.org/abs/2602.23206)|null|
 |**2026-02-26**|**A Perspective on Open Challenges in Deformable Object Manipulation**|Ryan Paul McKennaa et.al.|[2602.22998](http://arxiv.org/abs/2602.22998)|null|
 |**2026-02-25**|**Towards Autonomous Memory Agents**|Xinle Wu et.al.|[2602.22406](http://arxiv.org/abs/2602.22406)|null|
@@ -189,6 +193,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-01**|**Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning**|Ke Sun et.al.|[2603.00903](http://arxiv.org/abs/2603.00903)|null|
+|**2026-03-01**|**MedGPT-oss: Training a General-Purpose Vision-Language Model for Biomedicine**|Kai Zhang et.al.|[2603.00842](http://arxiv.org/abs/2603.00842)|null|
+|**2026-02-28**|**MME: Mixture of Mesh Experts with Random Walk Transformer Gating**|Amir Belder et.al.|[2603.00828](http://arxiv.org/abs/2603.00828)|null|
+|**2026-02-28**|**TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction**|Yihui Li et.al.|[2603.00697](http://arxiv.org/abs/2603.00697)|null|
+|**2026-02-28**|**Theory of Code Space: Do Code Agents Understand Software Architecture?**|Grigory Sapunov et.al.|[2603.00601](http://arxiv.org/abs/2603.00601)|null|
+|**2026-02-28**|**TopoEdge: Topology-Grounded Agentic Framework for Edge Networking Code Generation and Repair**|Haomin Qi et.al.|[2603.00569](http://arxiv.org/abs/2603.00569)|null|
+|**2026-02-28**|**COG: Confidence-aware Optimal Geometric Correspondence for Unsupervised Single-reference Novel Object Pose Estimation**|Yuchen Che et.al.|[2603.00493](http://arxiv.org/abs/2603.00493)|null|
+|**2026-02-27**|**DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths**|Hanqing Yang et.al.|[2603.00309](http://arxiv.org/abs/2603.00309)|null|
 |**2026-02-27**|**UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images**|Junhwa Hur et.al.|[2602.24290](http://arxiv.org/abs/2602.24290)|null|
 |**2026-02-27**|**Nanoelectronics with Two Dimensional Magnets**|Bing Zhao et.al.|[2602.24046](http://arxiv.org/abs/2602.24046)|null|
 |**2026-02-27**|**Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking**|Zhicheng Fang et.al.|[2602.24009](http://arxiv.org/abs/2602.24009)|null|
@@ -366,6 +378,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-28**|**Fairness-Oriented Optimization of NOMA-Enabled Pinching-Antenna Systems Under Blockage and Imperfect CSI**|Zhehang Ye et.al.|[2603.00630](http://arxiv.org/abs/2603.00630)|null|
+|**2026-02-28**|**Exploring Spatiotemporal Feature Propagation for Video-Level Compressive Spectral Reconstruction: Dataset, Model and Benchmark**|Lijing Cai et.al.|[2603.00611](http://arxiv.org/abs/2603.00611)|null|
+|**2026-02-28**|**Data-Centric Benchmark for Label Noise Estimation and Ranking in Remote Sensing Image Segmentation**|Keiller Nogueira et.al.|[2603.00604](http://arxiv.org/abs/2603.00604)|null|
+|**2026-02-27**|**Acoustic Sensing for Universal Jamming Grippers**|Lion Weber et.al.|[2603.00351](http://arxiv.org/abs/2603.00351)|null|
+|**2026-02-27**|**Physical Evaluation of Naturalistic Adversarial Patches for Camera-Based Traffic-Sign Detection**|Brianna D'Urso et.al.|[2603.00217](http://arxiv.org/abs/2603.00217)|null|
 |**2026-02-27**|**Weighted Unequal Error Protection over a Rayleigh Fading Channel**|Adeel Mahmood et.al.|[2602.24225](http://arxiv.org/abs/2602.24225)|null|
 |**2026-02-27**|**How IMU Drift Influences Multi-Radar Inertial Odometry for Ground Robots in Subterranean Terrains**|Moumita Mukherjee et.al.|[2602.24192](http://arxiv.org/abs/2602.24192)|null|
 |**2026-02-27**|**Open-Vocabulary Semantic Segmentation in Remote Sensing via Hierarchical Attention Masking and Model Composition**|Mohammadreza Heidarianbaei et.al.|[2602.23869](http://arxiv.org/abs/2602.23869)|null|
@@ -510,6 +527,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-01**|**GeMi: A Graph-based, Multimodal Recommendation System for Narrative Scroll Paintings**|Haimonti Dutta et.al.|[2603.00854](http://arxiv.org/abs/2603.00854)|null|
+|**2026-02-28**|**Local Differential Privacy for Molecular Communication Networks**|Melih Şahin et.al.|[2603.00690](http://arxiv.org/abs/2603.00690)|null|
+|**2026-02-28**|**Learning to Explore: Policy-Guided Outlier Synthesis for Graph Out-of-Distribution Detection**|Li Sun et.al.|[2603.00602](http://arxiv.org/abs/2603.00602)|null|
+|**2026-02-28**|**Heterophily-Agnostic Hypergraph Neural Networks with Riemannian Local Exchanger**|Li Sun et.al.|[2603.00599](http://arxiv.org/abs/2603.00599)|null|
+|**2026-02-28**|**TopoEdge: Topology-Grounded Agentic Framework for Edge Networking Code Generation and Repair**|Haomin Qi et.al.|[2603.00569](http://arxiv.org/abs/2603.00569)|null|
+|**2026-02-28**|**Dynamic Spatio-Temporal Graph Neural Network for Early Detection of Pornography Addiction in Adolescents Based on Electroencephalogram Signals**|Achmad Ardani Prasha et.al.|[2603.00488](http://arxiv.org/abs/2603.00488)|null|
+|**2026-02-28**|**Random Wins All: Rethinking Grouping Strategies for Vision Tokens**|Qihang Fan et.al.|[2603.00486](http://arxiv.org/abs/2603.00486)|null|
+|**2026-02-28**|**Wireless Power Control Based on Large Language Models**|Jiacheng Wang et.al.|[2603.00474](http://arxiv.org/abs/2603.00474)|null|
 |**2026-02-27**|**Random-Forest-Induced Graph Neural Networks for Tabular Learning**|Haozhe Chen et.al.|[2602.24224](http://arxiv.org/abs/2602.24224)|null|
 |**2026-02-27**|**Autonomous Inspection of Power Line Insulators with UAV on an Unmapped Transmission Tower**|Václav Riss et.al.|[2602.24011](http://arxiv.org/abs/2602.24011)|null|
 |**2026-02-27**|**MINT: Multimodal Imaging-to-Speech Knowledge Transfer for Early Alzheimer's Screening**|Vrushank Ahire et.al.|[2602.23994](http://arxiv.org/abs/2602.23994)|null|
@@ -691,6 +716,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-01**|**MedGPT-oss: Training a General-Purpose Vision-Language Model for Biomedicine**|Kai Zhang et.al.|[2603.00842](http://arxiv.org/abs/2603.00842)|null|
+|**2026-02-28**|**Revisiting the machine-learning density functional for the one-dimensional Hubbard model with random external potential**|Octavio D. R. Salmon et.al.|[2603.00802](http://arxiv.org/abs/2603.00802)|null|
+|**2026-02-28**|**Adapt Data to Model: Adaptive Transformation Optimization for Domain-shared Time Series Foundation Models**|Yunzhong Qiu et.al.|[2603.00629](http://arxiv.org/abs/2603.00629)|null|
+|**2026-02-28**|**Multi-Domain Riemannian Graph Gluing for Building Graph Foundation Models**|Li Sun et.al.|[2603.00618](http://arxiv.org/abs/2603.00618)|null|
+|**2026-02-28**|**LangGap: Diagnosing and Closing the Language Gap in Vision-Language-Action Models**|Yuchen Hou et.al.|[2603.00592](http://arxiv.org/abs/2603.00592)|null|
+|**2026-02-28**|**WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks**|Jingwen Tong et.al.|[2603.00501](http://arxiv.org/abs/2603.00501)|null|
+|**2026-02-28**|**HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning**|An Dang et.al.|[2603.00446](http://arxiv.org/abs/2603.00446)|null|
+|**2026-02-28**|**Mamba-CAD: State Space Model For 3D Computer-Aided Design Generative Modeling**|Xueyang Li et.al.|[2603.00439](http://arxiv.org/abs/2603.00439)|null|
+|**2026-02-27**|**Synthetic Priors**|Nick Polson et.al.|[2603.00347](http://arxiv.org/abs/2603.00347)|null|
+|**2026-02-27**|**Physical Evaluation of Naturalistic Adversarial Patches for Camera-Based Traffic-Sign Detection**|Brianna D'Urso et.al.|[2603.00217](http://arxiv.org/abs/2603.00217)|null|
 |**2026-02-27**|**LeGend: A Data-Driven Framework for Lemma Generation in Hardware Model Checking**|Mingkai Miao et.al.|[2602.24010](http://arxiv.org/abs/2602.24010)|null|
 |**2026-02-27**|**A Theory of Random Graph Shift in Truncated-Spectrum vRKHS**|Zhang Wan et.al.|[2602.23880](http://arxiv.org/abs/2602.23880)|null|
 |**2026-02-27**|**Hybrid Offline-Online Reinforcement Learning for Sensorless, High-Precision Force Regulation in Surgical Robotic Grasping**|Edoardo Fazzari et.al.|[2602.23870](http://arxiv.org/abs/2602.23870)|null|
@@ -864,6 +899,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-28**|**Preliminary study of the $H$ dibaryon in $N_{\rm f}=2+1$ lattice QCD**|André Baião Raposo et.al.|[2603.00698](http://arxiv.org/abs/2603.00698)|null|
+|**2026-02-28**|**Stop Treating Collisions Equally: Qualification-Aware Semantic ID Learning for Recommendation at Industrial Scale**|Zheng Hu et.al.|[2603.00632](http://arxiv.org/abs/2603.00632)|null|
+|**2026-02-27**|**NeuroHex: Highly-Efficient Hex Coordinate System for Creating World Models to Enable Adaptive AI**|Quinn Jacobson et.al.|[2603.00376](http://arxiv.org/abs/2603.00376)|null|
+|**2026-02-27**|**Distribution-Aware Companding Quantization of Large Language Models**|Athul Radhakrishnan et.al.|[2603.00364](http://arxiv.org/abs/2603.00364)|null|
 |**2026-02-27**|**Quant Experts: Token-aware Adaptive Error Reconstruction with Mixture of Experts for Large Vision-Language Models Quantization**|Chenwei Jia et.al.|[2602.24059](http://arxiv.org/abs/2602.24059)|null|
 |**2026-02-27**|**GPU-Native Approximate Nearest Neighbor Search with IVF-RaBitQ: Fast Index Build and Search**|Jifan Shi et.al.|[2602.23999](http://arxiv.org/abs/2602.23999)|null|
 |**2026-02-27**|**Towards Efficient and Generalizable Retrieval: Adaptive Semantic Quantization and Residual Knowledge Transfer**|Huimu Wang et.al.|[2602.23978](http://arxiv.org/abs/2602.23978)|null|
@@ -1059,6 +1098,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-28**|**Robustifying Empirical Bayes**|Roger Koenker et.al.|[2603.00704](http://arxiv.org/abs/2603.00704)|null|
+|**2026-02-28**|**Stop Treating Collisions Equally: Qualification-Aware Semantic ID Learning for Recommendation at Industrial Scale**|Zheng Hu et.al.|[2603.00632](http://arxiv.org/abs/2603.00632)|null|
+|**2026-02-28**|**AI-IO: An Aerodynamics-Inspired Real-Time Inertial Odometry for Quadrotors**|Jiahao Cui et.al.|[2603.00597](http://arxiv.org/abs/2603.00597)|null|
+|**2026-02-28**|**Efficient Long-Sequence Diffusion Modeling for Symbolic Music Generation**|Jinhan Xu et.al.|[2603.00576](http://arxiv.org/abs/2603.00576)|null|
+|**2026-02-28**|**DenoiseFlow: Uncertainty-Aware Denoising for Reliable LLM Agentic Workflows**|Yandong Yan et.al.|[2603.00532](http://arxiv.org/abs/2603.00532)|null|
+|**2026-02-28**|**Jano: Adaptive Diffusion Generation with Early-stage Convergence Awareness**|Yuyang Chen et.al.|[2603.00519](http://arxiv.org/abs/2603.00519)|null|
+|**2026-02-27**|**DiffSOS: Acoustic Conditional Diffusion Model for Speed-of-Sound Reconstruction in Ultrasound Computed Tomography**|Yujia Wu et.al.|[2603.00382](http://arxiv.org/abs/2603.00382)|null|
 |**2026-02-27**|**SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching**|Yasaman Haghighi et.al.|[2602.24208](http://arxiv.org/abs/2602.24208)|null|
 |**2026-02-27**|**Large-scale portfolio optimization on a trapped-ion quantum computer**|Alejandro Gomez Cadavid et.al.|[2602.23976](http://arxiv.org/abs/2602.23976)|null|
 |**2026-02-27**|**RAD-DPO: Robust Adaptive Denoising Direct Preference Optimization for Generative Retrieval in E-commerce**|Zhiguo Chen et.al.|[2602.23964](http://arxiv.org/abs/2602.23964)|null|
@@ -1232,6 +1278,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-28**|**Neurosymbolic Learning for Advanced Persistent Threat Detection under Extreme Class Imbalance**|Quhura Fathima et.al.|[2603.00453](http://arxiv.org/abs/2603.00453)|null|
+|**2026-02-27**|**Quantifying Catastrophic Forgetting in IoT Intrusion Detection Systems**|Sourasekhar Banerjee et.al.|[2603.00363](http://arxiv.org/abs/2603.00363)|null|
+|**2026-02-27**|**Physical Evaluation of Naturalistic Adversarial Patches for Camera-Based Traffic-Sign Detection**|Brianna D'Urso et.al.|[2603.00217](http://arxiv.org/abs/2603.00217)|null|
 |**2026-02-27**|**An Efficient Unsupervised Federated Learning Approach for Anomaly Detection in Heterogeneous IoT Networks**|Mohsen Tajgardan et.al.|[2602.24209](http://arxiv.org/abs/2602.24209)|null|
 |**2026-02-27**|**SAILOR: A Scalable and Energy-Efficient Ultra-Lightweight RISC-V for IoT Security**|Christian Ewert et.al.|[2602.24166](http://arxiv.org/abs/2602.24166)|null|
 |**2026-02-27**|**Unsupervised Baseline Clustering and Incremental Adaptation for IoT Device Traffic Profiling**|Sean M. Alderman et.al.|[2602.24047](http://arxiv.org/abs/2602.24047)|null|

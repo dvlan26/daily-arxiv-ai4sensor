@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**AWDiff: An a trous wavelet diffusion model for lung ultrasound image synthesis**|Maryam Heidari et.al.|[2603.03125](http://arxiv.org/abs/2603.03125)|null|
 |**2026-03-03**|**FinTexTS: Financial Text-Paired Time-Series Dataset via Semantic-Based and Multi-Level Pairing**|Jaehoon Lee et.al.|[2603.02702](http://arxiv.org/abs/2603.02702)|null|
 |**2026-03-03**|**Composite Wavelet Matrix-Based Transforms and Applications**|Radhika Kulkarni et.al.|[2603.02593](http://arxiv.org/abs/2603.02593)|null|
 |**2026-03-03**|**WTHaar-Net: a Hybrid Quantum-Classical Approach**|Vittorio Palladino et.al.|[2603.02497](http://arxiv.org/abs/2603.02497)|null|
@@ -192,6 +193,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**NeuroSkill(tm): Proactive Real-Time Agentic System Capable of Modeling Human State of Mind**|Nataliya Kosmyna et.al.|[2603.03212](http://arxiv.org/abs/2603.03212)|null|
+|**2026-03-03**|**Simultaneous anti-bunched and super-bunched photons from a GaAs Quantum dot in a dielectric metasurface**|Sanghyeok Park et.al.|[2603.03186](http://arxiv.org/abs/2603.03186)|null|
+|**2026-03-03**|**Robotic Grasping and Placement Controlled by EEG-Based Hybrid Visual and Motor Imagery**|Yichang Liu et.al.|[2603.03181](http://arxiv.org/abs/2603.03181)|null|
+|**2026-03-03**|**Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing**|Jiyuan Wang et.al.|[2603.03143](http://arxiv.org/abs/2603.03143)|null|
 |**2026-03-03**|**Self-supervised Domain Adaptation for Visual 3D Pose Estimation of Nano-drone Racing Gates by Enforcing Geometric Consistency**|Nicholas Carlotti et.al.|[2603.02936](http://arxiv.org/abs/2603.02936)|null|
 |**2026-03-03**|**Tracing Back Error Sources to Explain and Mitigate Pose Estimation Failures**|Loris Schneider et.al.|[2603.02881](http://arxiv.org/abs/2603.02881)|null|
 |**2026-03-03**|**DBMIF: a deep balanced multimodal iterative fusion framework for air- and bone-conduction speech enhancement**|Yilei Wu et.al.|[2603.02877](http://arxiv.org/abs/2603.02877)|null|
@@ -395,6 +400,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
+|**2026-03-03**|**On the biogenic hydrodynamic transport of upward and downward cruising copepods**|Yunxing Su et.al.|[2603.03178](http://arxiv.org/abs/2603.03178)|null|
 |**2026-03-03**|**Seeing Clearly without Training: Mitigating Hallucinations in Multimodal LLMs for Remote Sensing**|Yi Liu et.al.|[2603.02754](http://arxiv.org/abs/2603.02754)|null|
 |**2026-03-03**|**Large Language Model Empowered CSI Feedback in Massive MIMO Systems**|Jie Wu et.al.|[2603.02686](http://arxiv.org/abs/2603.02686)|null|
 |**2026-03-03**|**Integrating Health Sensing into Cellular Networks: Human Sleep Monitoring Using 5G Signals**|Ruxin Lin et.al.|[2603.02558](http://arxiv.org/abs/2603.02558)|null|
@@ -557,6 +564,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Coalgebras for categorical deep learning: Representability and universal approximation**|Dragan Mašulović et.al.|[2603.03227](http://arxiv.org/abs/2603.03227)|null|
 |**2026-03-03**|**Multi-Scale Adaptive Neighborhood Awareness Transformer For Graph Fraud Detection**|Jiaqi Lv et.al.|[2603.03106](http://arxiv.org/abs/2603.03106)|null|
 |**2026-03-03**|**Odin: Multi-Signal Graph Intelligence for Autonomous Discovery in Knowledge Graphs**|Muyukani Kizito et.al.|[2603.03097](http://arxiv.org/abs/2603.03097)|null|
 |**2026-03-03**|**QAOA-Predictor: Forecasting Success Probabilities and Minimal Depths for Efficient Fixed-Parameter Optimization**|Rodrigo Coelho et.al.|[2603.02990](http://arxiv.org/abs/2603.02990)|null|
@@ -764,6 +772,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Joint Training Across Multiple Activation Sparsity Regimes**|Haotian Wang et.al.|[2603.03131](http://arxiv.org/abs/2603.03131)|null|
+|**2026-03-03**|**AWDiff: An a trous wavelet diffusion model for lung ultrasound image synthesis**|Maryam Heidari et.al.|[2603.03125](http://arxiv.org/abs/2603.03125)|null|
 |**2026-03-03**|**OrchMAS: Orchestrated Reasoning with Multi Collaborative Heterogeneous Scientific Expert Structured Agents**|Yichao Feng et.al.|[2603.03005](http://arxiv.org/abs/2603.03005)|null|
 |**2026-03-03**|**Self-supervised Domain Adaptation for Visual 3D Pose Estimation of Nano-drone Racing Gates by Enforcing Geometric Consistency**|Nicholas Carlotti et.al.|[2603.02936](http://arxiv.org/abs/2603.02936)|null|
 |**2026-03-03**|**Single Microphone Own Voice Detection based on Simulated Transfer Functions for Hearing Aids**|Mathuranathan Mayuravaani et.al.|[2603.02724](http://arxiv.org/abs/2603.02724)|null|
@@ -960,6 +970,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Channel-Adaptive Edge AI: Maximizing Inference Throughput by Adapting Computational Complexity to Channel States**|Jierui Zhang et.al.|[2603.03146](http://arxiv.org/abs/2603.03146)|null|
+|**2026-03-03**|**Torus embeddings**|Dan Stowell et.al.|[2603.03135](http://arxiv.org/abs/2603.03135)|null|
 |**2026-03-03**|**TinyIceNet: Low-Power SAR Sea Ice Segmentation for On-Board FPGA Inference**|Mhd Rashed Al Koutayni et.al.|[2603.03075](http://arxiv.org/abs/2603.03075)|null|
 |**2026-03-03**|**A simple scheme to realize the Rice-Mele model in acoustic system**|Tianzhi Xia et.al.|[2603.02932](http://arxiv.org/abs/2603.02932)|null|
 |**2026-03-03**|**ProGIC: Progressive and Lightweight Generative Image Compression with Residual Vector Quantization**|Hao Cao et.al.|[2603.02897](http://arxiv.org/abs/2603.02897)|null|
@@ -1375,6 +1387,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Look Forward to Walk Backward: Efficient Terrain Memory for Backward Locomotion with Forward Vision**|Shixin Luo et.al.|[2603.03138](http://arxiv.org/abs/2603.03138)|null|
 |**2026-03-03**|**The Dresden Dataset for 4D Reconstruction of Non-Rigid Abdominal Surgical Scenes**|Reuben Docea et.al.|[2603.02985](http://arxiv.org/abs/2603.02985)|null|
 |**2026-03-03**|**Towards Accurate and Interpretable Time-series Forecasting: A Polynomial Learning Approach**|Bo Liu et.al.|[2603.02906](http://arxiv.org/abs/2603.02906)|null|
 |**2026-03-03**|**Exploiting Double-Bounce Paths in Snapshot Radio SLAM: Bounds, Algorithms and Experiments**|Xi Zhang et.al.|[2603.02832](http://arxiv.org/abs/2603.02832)|null|

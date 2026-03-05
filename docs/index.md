@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**LISTA-Transformer Model Based on Sparse Coding and Attention Mechanism and Its Application in Fault Diagnosis**|Shuang Liu et.al.|[2603.04146](http://arxiv.org/abs/2603.04146)|null|
 |**2026-03-04**|**TFWaveFormer: Temporal-Frequency Collaborative Multi-level Wavelet Transformer for Dynamic Link Prediction**|Hantong Feng et.al.|[2603.03963](http://arxiv.org/abs/2603.03963)|null|
 |**2026-03-03**|**AWDiff: An a trous wavelet diffusion model for lung ultrasound image synthesis**|Maryam Heidari et.al.|[2603.03125](http://arxiv.org/abs/2603.03125)|null|
 |**2026-03-03**|**FinTexTS: Financial Text-Paired Time-Series Dataset via Semantic-Based and Multi-Level Pairing**|Jaehoon Lee et.al.|[2603.02702](http://arxiv.org/abs/2603.02702)|null|
@@ -123,6 +124,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Compliant In-hand Rolling Manipulation Using Tactile Sensing**|Huan Weng et.al.|[2603.04301](http://arxiv.org/abs/2603.04301)|null|
 |**2026-03-04**|**Touch2Insert: Zero-Shot Peg Insertion by Touching Intersections of Peg and Hole**|Masaru Yajima et.al.|[2603.03627](http://arxiv.org/abs/2603.03627)|null|
 |**2026-03-04**|**MEM: Multi-Scale Embodied Memory for Vision Language Action Models**|Marcel Torne et.al.|[2603.03596](http://arxiv.org/abs/2603.03596)|null|
 |**2026-03-03**|**Computational discovery of bifunctional organic semiconductors for energy and biosensing**|Patrick Sorrel Mvoto Kongo et.al.|[2603.03392](http://arxiv.org/abs/2603.03392)|null|
@@ -414,6 +416,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Any2Any: Unified Arbitrary Modality Translation for Remote Sensing**|Haoyang Chen et.al.|[2603.04114](http://arxiv.org/abs/2603.04114)|null|
 |**2026-03-04**|**GeoSeg: Training-Free Reasoning-Driven Segmentation in Remote Sensing Imagery**|Lifan Jiang et.al.|[2603.03983](http://arxiv.org/abs/2603.03983)|null|
 |**2026-03-04**|**Joint Gaussian Beam Pattern and Its Optimization for Positioning-Assisted Systems**|Yuanbo Liu et.al.|[2603.03940](http://arxiv.org/abs/2603.03940)|null|
 |**2026-03-04**|**Scalable and Convergent Generalized Power Iteration Precoding for Massive MIMO Systems**|Seunghyeong Yoo et.al.|[2603.03708](http://arxiv.org/abs/2603.03708)|null|
@@ -582,6 +585,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Beyond Edge Deletion: A Comprehensive Approach to Counterfactual Explanation in Graph Neural Networks**|Matteo De Sanctis et.al.|[2603.04209](http://arxiv.org/abs/2603.04209)|null|
+|**2026-03-04**|**Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs**|Yanmei Zou et.al.|[2603.04099](http://arxiv.org/abs/2603.04099)|null|
 |**2026-03-04**|**AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation**|Yunxiao Shi et.al.|[2603.03761](http://arxiv.org/abs/2603.03761)|null|
 |**2026-03-04**|**Local Shapley: Model-Induced Locality and Optimal Reuse in Data Valuation**|Xuan Yang et.al.|[2603.03672](http://arxiv.org/abs/2603.03672)|null|
 |**2026-03-04**|**Graph Negative Feedback Bias Correction Framework for Adaptive Heterophily Modeling**|Jiaqi Lv et.al.|[2603.03662](http://arxiv.org/abs/2603.03662)|null|
@@ -794,6 +799,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Balancing Fidelity, Utility, and Privacy in Synthetic Cardiac MRI Generation: A Comparative Study**|Madhura Edirisooriya et.al.|[2603.04340](http://arxiv.org/abs/2603.04340)|null|
+|**2026-03-04**|**A Multi-Fidelity Parametric Framework for Reduced-Order Modeling using Optimal Transport-based Interpolation: Applications to Diffused-Interface Two-Phase Flows**|Moaad Khamlich et.al.|[2603.04232](http://arxiv.org/abs/2603.04232)|null|
+|**2026-03-04**|**ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis**|Youngwon Choi et.al.|[2603.04219](http://arxiv.org/abs/2603.04219)|null|
+|**2026-03-04**|**Learning Hip Exoskeleton Control Policy via Predictive Neuromusculoskeletal Simulation**|Ilseung Park et.al.|[2603.04166](http://arxiv.org/abs/2603.04166)|null|
+|**2026-03-04**|**Mask-Guided Attention Regulation for Anatomically Consistent Counterfactual CXR Synthesis**|Zichun Zhang et.al.|[2603.04130](http://arxiv.org/abs/2603.04130)|null|
+|**2026-03-04**|**FastWave: Optimized Diffusion Model for Audio Super-Resolution**|Nikita Kuznetsov et.al.|[2603.04122](http://arxiv.org/abs/2603.04122)|null|
 |**2026-03-04**|**Sim2Sea: Sim-to-Real Policy Transfer for Maritime Vessel Navigation in Congested Waters**|Xinyu Cui et.al.|[2603.04057](http://arxiv.org/abs/2603.04057)|null|
 |**2026-03-04**|**Inference-Time Toxicity Mitigation in Protein Language Models**|Manuel Fernández Burda et.al.|[2603.04045](http://arxiv.org/abs/2603.04045)|null|
 |**2026-03-04**|**Who Judges the Judge? Evaluating LLM-as-a-Judge for French Medical open-ended QA**|Ikram Belmadani et.al.|[2603.04033](http://arxiv.org/abs/2603.04033)|null|
@@ -999,6 +1010,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Helios: Real Real-Time Long Video Generation Model**|Shenghai Yuan et.al.|[2603.04379](http://arxiv.org/abs/2603.04379)|null|
+|**2026-03-04**|**Dissecting Quantization Error: A Concentration-Alignment Perspective**|Marco Federici et.al.|[2603.04359](http://arxiv.org/abs/2603.04359)|null|
+|**2026-03-04**|**Pointer-CAD: Unifying B-Rep and Command Sequences via Pointer-based Edges & Faces Selection**|Dacheng Qi et.al.|[2603.04337](http://arxiv.org/abs/2603.04337)|null|
+|**2026-03-04**|**Direct derivation of the modified Langevin noise formalism from the canonical quantization of macroscopic electromagnetism**|Alessandro Ciattoni et.al.|[2603.04336](http://arxiv.org/abs/2603.04336)|null|
+|**2026-03-04**|**Activation Outliers in Transformer Quantization: Reproduction, Statistical Analysis, and Deployment Tradeoffs**|Pranav Kumar Kaliaperumal et.al.|[2603.04308](http://arxiv.org/abs/2603.04308)|null|
+|**2026-03-04**|**Bielik-Q2-Sharp: A Comparative Study of Extreme 2-bit Quantization Methods for a Polish 11B Language Model**|Jakub Prejzner et.al.|[2603.04162](http://arxiv.org/abs/2603.04162)|null|
 |**2026-03-04**|**Wasserstein Gradient Flows of semi-discret energies: evolution of urban areas anduniform quantization**|Joao Miguel Machado et.al.|[2603.04088](http://arxiv.org/abs/2603.04088)|null|
 |**2026-03-04**|**Demonstration of robust chiral edge transport in Chern insulator MnBi2Te4 devices with engineered geometric defects**|Pinyuan Wang et.al.|[2603.03927](http://arxiv.org/abs/2603.03927)|null|
 |**2026-03-04**|**Fractional topology in open systems**|Xi Wu et.al.|[2603.03854](http://arxiv.org/abs/2603.03854)|null|
@@ -1227,6 +1244,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Balancing Fidelity, Utility, and Privacy in Synthetic Cardiac MRI Generation: A Comparative Study**|Madhura Edirisooriya et.al.|[2603.04340](http://arxiv.org/abs/2603.04340)|null|
+|**2026-03-04**|**Mask-Guided Attention Regulation for Anatomically Consistent Counterfactual CXR Synthesis**|Zichun Zhang et.al.|[2603.04130](http://arxiv.org/abs/2603.04130)|null|
 |**2026-03-04**|**Volumetric Directional Diffusion: Anchoring Uncertainty Quantification in Anatomical Consensus for Ambiguous Medical Image Segmentation**|Chao Wu et.al.|[2603.04024](http://arxiv.org/abs/2603.04024)|null|
 |**2026-03-04**|**Plug-and-Play blind super-resolution of real MRI images for improved multiple sclerosis diagnosis**|Matteo Cannas et.al.|[2603.03876](http://arxiv.org/abs/2603.03876)|null|
 |**2026-03-04**|**Fairness Begins with State: Purifying Latent Preferences for Hierarchical Reinforcement Learning in Interactive Recommendation**|Yun Lu et.al.|[2603.03820](http://arxiv.org/abs/2603.03820)|null|
@@ -1431,6 +1450,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Zigbee vs. Matter over Thread: Understanding IoT Protocol Performance in Practice**|Massimo Nobile et.al.|[2603.04221](http://arxiv.org/abs/2603.04221)|null|
+|**2026-03-04**|**Architectural Proprioception in State Space Models: Thermodynamic Training Induces Anticipatory Halt Detection**|Jay Noon et.al.|[2603.04180](http://arxiv.org/abs/2603.04180)|null|
+|**2026-03-04**|**HBRB-BoW: A Retrained Bag-of-Words Vocabulary for ORB-SLAM via Hierarchical BRB-KMeans**|Minjae Lee et.al.|[2603.04144](http://arxiv.org/abs/2603.04144)|null|
 |**2026-03-04**|**Zero-Knowledge Proof (ZKP) Authentication for Offline CBDC Payment System Using IoT Devices**|Santanu Mondal et.al.|[2603.03804](http://arxiv.org/abs/2603.03804)|null|
 |**2026-03-04**|**Unsupervised Surrogate-Assisted Synthesis of Free-Form Planar Antenna Topologies for IoT Applications**|Khadijeh Askaripour et.al.|[2603.03802](http://arxiv.org/abs/2603.03802)|null|
 |**2026-03-04**|**Interaction-Aware Whole-Body Control for Compliant Object Transport**|Hao Zhang et.al.|[2603.03751](http://arxiv.org/abs/2603.03751)|null|

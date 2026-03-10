@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Electrocardiogram Classification with Transformers Using Koopman and Wavelet Features**|Sucheta Ghosh et.al.|[2603.08339](http://arxiv.org/abs/2603.08339)|null|
 |**2026-03-09**|**Examining the Role of YouTube Production and Consumption Dynamics on the Formation of Extreme Ideologies**|Sarmad Chandio et.al.|[2603.08049](http://arxiv.org/abs/2603.08049)|null|
 |**2026-03-09**|**Variational Inference for Variable Selection in Scalar-on-Function Regression**|Ana Carolina da Cruz et.al.|[2603.07856](http://arxiv.org/abs/2603.07856)|null|
 |**2026-03-08**|**GLASS: Graph and Vision-Language Assisted Semantic Shape Correspondence**|Qinfeng Xiao et.al.|[2603.07652](http://arxiv.org/abs/2603.07652)|null|
@@ -136,6 +137,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**CONTACT: CONtact-aware TACTile Learning for Robotic Disassembly**|Yosuke Saka et.al.|[2603.08560](http://arxiv.org/abs/2603.08560)|null|
 |**2026-03-07**|**Unconditional structure of Banach spaces with few operators**|Fernando Albiac et.al.|[2603.07324](http://arxiv.org/abs/2603.07324)|null|
 |**2026-03-07**|**Asymptotic Behaviors of Global Solutions to Fourth-order Parabolic and Hyperbolic Equations with Dirichlet Boundary Conditions**|Wenlong Wu et.al.|[2603.07042](http://arxiv.org/abs/2603.07042)|null|
 |**2026-03-07**|**Well-posedness and asymptotic behavior of solutions to a second order nonlocal parabolic MEMS equation**|Yufei Wei et.al.|[2603.07013](http://arxiv.org/abs/2603.07013)|null|
@@ -219,6 +221,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**ER-Pose: Rethinking Keypoint-Driven Representation Learning for Real-Time Human Pose Estimation**|Nanjun Li et.al.|[2603.08681](http://arxiv.org/abs/2603.08681)|null|
+|**2026-03-09**|**Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing**|Nils Loose et.al.|[2603.08616](http://arxiv.org/abs/2603.08616)|null|
+|**2026-03-09**|**What to Make Sense of in the Era of LLM? A Perspective from the Structure and Efforts in Sensemaking**|Tianyi Li et.al.|[2603.08604](http://arxiv.org/abs/2603.08604)|null|
+|**2026-03-09**|**BioGait-VLM: A Tri-Modal Vision-Language-Biomechanics Framework for Interpretable Clinical Gait Assessment**|Erdong Chen et.al.|[2603.08564](http://arxiv.org/abs/2603.08564)|null|
+|**2026-03-09**|**mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud**|Abdullah Al Masud et.al.|[2603.08551](http://arxiv.org/abs/2603.08551)|null|
+|**2026-03-09**|**PCFEx: Point Cloud Feature Extraction for Graph Neural Networks**|Abdullah Al Masud et.al.|[2603.08540](http://arxiv.org/abs/2603.08540)|null|
+|**2026-03-09**|**Electrocardiogram Classification with Transformers Using Koopman and Wavelet Features**|Sucheta Ghosh et.al.|[2603.08339](http://arxiv.org/abs/2603.08339)|null|
+|**2026-03-09**|**Coupling Europe's Capacity Markets**|Kamal Adekola et.al.|[2603.08248](http://arxiv.org/abs/2603.08248)|null|
+|**2026-03-09**|**Why Learn What Physics Already Knows? Realizing Agile mmWave-based Human Pose Estimation via Physics-Guided Preprocessing**|Shuntian Zheng et.al.|[2603.08236](http://arxiv.org/abs/2603.08236)|null|
 |**2026-03-09**|**Re-evaluating Position and Velocity Decoding for Hand Pose Estimation with Surface Electromyography**|Nima Hadidi et.al.|[2603.08212](http://arxiv.org/abs/2603.08212)|null|
 |**2026-03-09**|**Optimal Embedding of Wiring Diagrams in Constrained Three-Dimensional Spaces**|Víctor Blanco et.al.|[2603.08157](http://arxiv.org/abs/2603.08157)|null|
 |**2026-03-09**|**Hybrid Quantum Neural Network for Multivariate Clinical Time Series Forecasting**|Irene Iele et.al.|[2603.08072](http://arxiv.org/abs/2603.08072)|null|
@@ -466,6 +477,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Coherence-Aware Over-the-Air Distributed Learning under Heterogeneous Link Impairments**|Mehdi Karbalayghareh et.al.|[2603.08641](http://arxiv.org/abs/2603.08641)|null|
+|**2026-03-09**|**FoMo: A Multi-Season Dataset for Robot Navigation in Forêt Montmorency**|Matěj Boxan et.al.|[2603.08433](http://arxiv.org/abs/2603.08433)|null|
+|**2026-03-09**|**Mathematical modeling of urban sprawl**|Marc Barthelemy et.al.|[2603.08338](http://arxiv.org/abs/2603.08338)|null|
 |**2026-03-09**|**Interleaved diffractive networks for information transfer through random diffusers**|Yuhang Li et.al.|[2603.07975](http://arxiv.org/abs/2603.07975)|null|
 |**2026-03-09**|**Enhancing Unregistered Hyperspectral Image Super-Resolution via Unmixing-based Abundance Fusion Learning**|Yingkai Zhang et.al.|[2603.07918](http://arxiv.org/abs/2603.07918)|null|
 |**2026-03-08**|**Spectral-Domain Spreading via Hadamard Transform for Robust Downlink Non-Orthogonal Multiple Access**|Yaakoub Berrouche et.al.|[2603.07836](http://arxiv.org/abs/2603.07836)|null|
@@ -662,6 +676,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Characterization and upgrade of a quantum graph neural network for charged particle tracking**|Matteo Argenton et.al.|[2603.08667](http://arxiv.org/abs/2603.08667)|null|
+|**2026-03-09**|**mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud**|Abdullah Al Masud et.al.|[2603.08551](http://arxiv.org/abs/2603.08551)|null|
+|**2026-03-09**|**PCFEx: Point Cloud Feature Extraction for Graph Neural Networks**|Abdullah Al Masud et.al.|[2603.08540](http://arxiv.org/abs/2603.08540)|null|
+|**2026-03-09**|**Adaptive Entropy-Driven Sensor Selection in a Camera-LiDAR Particle Filter for Single-Vessel Tracking**|Andrei Starodubov et.al.|[2603.08457](http://arxiv.org/abs/2603.08457)|null|
+|**2026-03-09**|**AULLM++: Structural Reasoning with Large Language Models for Micro-Expression Recognition**|Zhishu Liu et.al.|[2603.08387](http://arxiv.org/abs/2603.08387)|null|
+|**2026-03-09**|**SCL-GNN: Towards Generalizable Graph Neural Networks via Spurious Correlation Learning**|Yuxiang Zhang et.al.|[2603.08270](http://arxiv.org/abs/2603.08270)|null|
 |**2026-03-09**|**Alignment-Aware and Reliability-Gated Multimodal Fusion for Unmanned Aerial Vehicle Detection Across Heterogeneous Thermal-Visual Sensors**|Ishrat Jahan et.al.|[2603.08208](http://arxiv.org/abs/2603.08208)|null|
 |**2026-03-09**|**Mitigating Homophily Disparity in Graph Anomaly Detection: A Scalable and Adaptive Approach**|Yunhui Liu et.al.|[2603.08137](http://arxiv.org/abs/2603.08137)|null|
 |**2026-03-09**|**Distributed Coordination Algorithms with Efficient Communication for Open Multi-Agent Systems with Dynamic Communication Links and Processing Delays**|Jiaqi Hu et.al.|[2603.08038](http://arxiv.org/abs/2603.08038)|null|
@@ -902,6 +922,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Scalable Neural Vocoder from Range-Null Space Decomposition**|Andong Li et.al.|[2603.08574](http://arxiv.org/abs/2603.08574)|null|
+|**2026-03-09**|**Alfa: Attentive Low-Rank Filter Adaptation for Structure-Aware Cross-Domain Personalized Gaze Estimation**|He-Yen Hsieh et.al.|[2603.08445](http://arxiv.org/abs/2603.08445)|null|
+|**2026-03-09**|**Diffusion-Based Data Augmentation for Image Recognition: A Systematic Analysis and Evaluation**|Zekun Li et.al.|[2603.08364](http://arxiv.org/abs/2603.08364)|null|
+|**2026-03-09**|**Seed2Scale: A Self-Evolving Data Engine for Embodied AI via Small to Large Model Synergy and Multimodal Evaluation**|Cong Tai et.al.|[2603.08260](http://arxiv.org/abs/2603.08260)|null|
 |**2026-03-09**|**AutoAdapt: An Automated Domain Adaptation Framework for LLMs**|Sidharth Sinha et.al.|[2603.08181](http://arxiv.org/abs/2603.08181)|null|
 |**2026-03-09**|**Adversarial Domain Adaptation Enables Knowledge Transfer Across Heterogeneous RNA-Seq Datasets**|Kevin Dradjat et.al.|[2603.08062](http://arxiv.org/abs/2603.08062)|null|
 |**2026-03-09**|**WhispEar: A Bi-directional Framework for Scaling Whispered Speech Conversion via Pseudo-Parallel Whisper Generation**|Zihao Fang et.al.|[2603.08046](http://arxiv.org/abs/2603.08046)|null|
@@ -1143,6 +1167,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**An implicit restriction in the Dirac quantization**|Han Geurdes et.al.|[2603.08516](http://arxiv.org/abs/2603.08516)|null|
+|**2026-03-09**|**Physical properties of elementary particles: Inertia and Interaction**|Martin Rivas et.al.|[2603.08456](http://arxiv.org/abs/2603.08456)|null|
+|**2026-03-09**|**Connecting baryon light-front wave functions to quasi-transverse-momentum-dependent correlators in lattice QCD**|S. Rodini et.al.|[2603.08405](http://arxiv.org/abs/2603.08405)|null|
+|**2026-03-09**|**$Δ$ VLA: Prior-Guided Vision-Language-Action Models via World Knowledge Variation**|Yijie Zhu et.al.|[2603.08361](http://arxiv.org/abs/2603.08361)|null|
+|**2026-03-09**|**Optical manipulation of valley coherence via Landau level transitions in black phosphorus and WTe2 monolayers**|Xinyu Mu et.al.|[2603.08357](http://arxiv.org/abs/2603.08357)|null|
 |**2026-03-09**|**SERQ: Saliency-Aware Low-Rank Error Reconstruction for LLM Quantization**|Yeonsik Park et.al.|[2603.08185](http://arxiv.org/abs/2603.08185)|null|
 |**2026-03-09**|**Evolution Strategy-Based Calibration for Low-Bit Quantization of Speech Models**|Lucas Rakotoarivony et.al.|[2603.08173](http://arxiv.org/abs/2603.08173)|null|
 |**2026-03-09**|**Layer-Dependent Orbital Magnetization in Graphene-Haldane Heterostructures**|Sovan Ghosh et.al.|[2603.08170](http://arxiv.org/abs/2603.08170)|null|
@@ -1406,6 +1435,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Scale Space Diffusion**|Soumik Mukhopadhyay et.al.|[2603.08709](http://arxiv.org/abs/2603.08709)|null|
+|**2026-03-09**|**HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising**|Kai Zou et.al.|[2603.08703](http://arxiv.org/abs/2603.08703)|null|
+|**2026-03-09**|**PRISM: Streaming Human Motion Generation with Per-Joint Latent Decomposition**|Zeyu Ling et.al.|[2603.08590](http://arxiv.org/abs/2603.08590)|null|
+|**2026-03-09**|**Enhanced Emittance Evaluation using 2D Transverse Phase Space Distributions, High Resolution Image Denoising, and Deep Learning**|Francis René Osswald et.al.|[2603.08507](http://arxiv.org/abs/2603.08507)|null|
+|**2026-03-09**|**End-to-end optimisation of HEP triggers**|Noah Clarke Hall et.al.|[2603.08428](http://arxiv.org/abs/2603.08428)|null|
+|**2026-03-09**|**Deep Learning based Cross-Receiver Radio Frequency Fingerprint Identification Under Varying Channels**|Jiashuo He et.al.|[2603.08402](http://arxiv.org/abs/2603.08402)|null|
+|**2026-03-09**|**StructBiHOI: Structured Articulation Modeling for Long--Horizon Bimanual Hand--Object Interaction Generation**|Zhi Wang et.al.|[2603.08390](http://arxiv.org/abs/2603.08390)|null|
+|**2026-03-09**|**Rectified flow-based prediction of post-treatment brain MRI from pre-radiotherapy priors for patients with glioma**|Selena Huisman et.al.|[2603.08385](http://arxiv.org/abs/2603.08385)|null|
 |**2026-03-09**|**DyLLM: Efficient Diffusion LLM Inference via Saliency-based Token Selection and Partial Attention**|Younjoo Lee et.al.|[2603.08026](http://arxiv.org/abs/2603.08026)|null|
 |**2026-03-09**|**Guess & Guide: Gradient-Free Zero-Shot Diffusion Guidance**|Abduragim Shtanchaev et.al.|[2603.07860](http://arxiv.org/abs/2603.07860)|null|
 |**2026-03-08**|**HybridStitch: Pixel and Timestep Level Model Stitching for Diffusion Acceleration**|Desen Sun et.al.|[2603.07815](http://arxiv.org/abs/2603.07815)|null|
@@ -1642,6 +1679,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Embedding Classical Balance Control Principles in Reinforcement Learning for Humanoid Recovery**|Nehar Poddar et.al.|[2603.08619](http://arxiv.org/abs/2603.08619)|null|
+|**2026-03-09**|**PCFEx: Point Cloud Feature Extraction for Graph Neural Networks**|Abdullah Al Masud et.al.|[2603.08540](http://arxiv.org/abs/2603.08540)|null|
+|**2026-03-09**|**Improving Continual Learning for Gaussian Splatting based Environments Reconstruction on Commercial Off-the-Shelf Edge Devices**|Ivan Zaino et.al.|[2603.08499](http://arxiv.org/abs/2603.08499)|null|
+|**2026-03-09**|**FoMo: A Multi-Season Dataset for Robot Navigation in Forêt Montmorency**|Matěj Boxan et.al.|[2603.08433](http://arxiv.org/abs/2603.08433)|null|
+|**2026-03-09**|**MoMaStage: Skill-State Graph Guided Planning and Closed-Loop Execution for Long-Horizon Indoor Mobile Manipulation**|Chenxu Li et.al.|[2603.08383](http://arxiv.org/abs/2603.08383)|null|
+|**2026-03-09**|**Perception-Aware Communication-Free Multi-UAV Coordination in the Wild**|Manuel Boldrer et.al.|[2603.08379](http://arxiv.org/abs/2603.08379)|null|
+|**2026-03-09**|**A Comparative Study of Recent Advances in Internet of Intrusion Detection Things**|Marianna Rezk et.al.|[2603.08218](http://arxiv.org/abs/2603.08218)|null|
 |**2026-03-09**|**Edged USLAM: Edge-Aware Event-Based SLAM with Learning-Based Depth Priors**|Şebnem Sarıözkan et.al.|[2603.08150](http://arxiv.org/abs/2603.08150)|null|
 |**2026-03-09**|**Explainable Condition Monitoring via Probabilistic Anomaly Detection Applied to Helicopter Transmissions**|Aurelio Raffa Ugolini et.al.|[2603.08130](http://arxiv.org/abs/2603.08130)|null|
 |**2026-03-09**|**SaiVLA-0: Cerebrum--Pons--Cerebellum Tripartite Architecture for Compute-Aware Vision-Language-Action**|Xiang Shi et.al.|[2603.08124](http://arxiv.org/abs/2603.08124)|null|

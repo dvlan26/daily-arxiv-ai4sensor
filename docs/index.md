@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Factorized Neural Implicit DMD for Parametric Dynamics**|Siyuan Chen et.al.|[2603.10995](http://arxiv.org/abs/2603.10995)|null|
+|**2026-03-11**|**X-ray polarization in the soft state of Cyg X-1**|A. Niedzwiecki et.al.|[2603.10870](http://arxiv.org/abs/2603.10870)|null|
+|**2026-03-11**|**Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression**|Taehyung Kwon et.al.|[2603.10410](http://arxiv.org/abs/2603.10410)|null|
+|**2026-03-11**|**Information-Theoretic Spectroscopy: Universal Sparsity of Extinction Manifold and Optimal Sensing across Scattering Regimes**|Proity Nayeeb Akbar et.al.|[2603.10364](http://arxiv.org/abs/2603.10364)|null|
+|**2026-03-11**|**The uniqueness of the ground state and the dynamics of nonlinear Schrödinger equation with inverse square potential**|Kai Yang et.al.|[2603.10338](http://arxiv.org/abs/2603.10338)|null|
+|**2026-03-10**|**XMM-Newton Observations of Flares and a Possible Pulse Dropout in the Supergiant X-ray binary 4U 1909+07**|Joel B. Coley et.al.|[2603.10111](http://arxiv.org/abs/2603.10111)|null|
 |**2026-03-10**|**Kippenhahn's Conjecture Revisited**|Michael Stessin et.al.|[2603.09915](http://arxiv.org/abs/2603.09915)|null|
 |**2026-03-10**|**TriFusion-SR: Joint Tri-Modal Medical Image Fusion and SR**|Fayaz Ali Dharejo et.al.|[2603.09702](http://arxiv.org/abs/2603.09702)|null|
 |**2026-03-10**|**Application of dual-tree complex wavelet transform for spectra background reduction**|Kazimierz Skrobas et.al.|[2603.09666](http://arxiv.org/abs/2603.09666)|null|
@@ -143,6 +149,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**FG-CLTP: Fine-Grained Contrastive Language Tactile Pretraining for Robotic Manipulation**|Wenxuan Ma et.al.|[2603.10871](http://arxiv.org/abs/2603.10871)|null|
+|**2026-03-11**|**Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm**|Dongmyoung Lee et.al.|[2603.10609](http://arxiv.org/abs/2603.10609)|null|
+|**2026-03-11**|**TacLoc: Global Tactile Localization on Objects from a Registration Perspective**|Zirui Zhang et.al.|[2603.10565](http://arxiv.org/abs/2603.10565)|null|
+|**2026-03-11**|**An Event-Driven E-Skin System with Dynamic Binary Scanning and real time SNN Classification**|Gaishan Li et.al.|[2603.10537](http://arxiv.org/abs/2603.10537)|null|
+|**2026-03-08**|**Gated Adaptation for Continual Learning in Human Activity Recognition**|Reza Rahimi Azghan et.al.|[2603.10046](http://arxiv.org/abs/2603.10046)|null|
 |**2026-03-10**|**MuxGel: Simultaneous Dual-Modal Visuo-Tactile Sensing via Spatially Multiplexing and Deep Reconstruction**|Zhixian Hu et.al.|[2603.09761](http://arxiv.org/abs/2603.09761)|null|
 |**2026-03-10**|**TA-Mem: Tool-Augmented Autonomous Memory Retrieval for LLM in Long-Term Conversational QA**|Mengwei Yuan et.al.|[2603.09297](http://arxiv.org/abs/2603.09297)|null|
 |**2026-03-10**|**Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval**|Yingyi Zhang et.al.|[2603.09250](http://arxiv.org/abs/2603.09250)|null|
@@ -231,6 +242,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Bio-Inspired Self-Supervised Learning for Wrist-worn IMU Signals**|Prithviraj Tarale et.al.|[2603.10961](http://arxiv.org/abs/2603.10961)|null|
+|**2026-03-11**|**LAtte: Hyperbolic Lorentz Attention for Cross-Subject EEG Classification**|Johannes Burchert et.al.|[2603.10881](http://arxiv.org/abs/2603.10881)|null|
+|**2026-03-11**|**Repurposing Backdoors for Good: Ephemeral Intrinsic Proofs for Verifiable Aggregation in Cross-silo Federated Learning**|Xian Qin et.al.|[2603.10692](http://arxiv.org/abs/2603.10692)|null|
+|**2026-03-11**|**A Platform-Agnostic Multimodal Digital Human Modelling Framework: Neurophysiological Sensing in Game-Based Interaction**|Daniel J. Buxton et.al.|[2603.10680](http://arxiv.org/abs/2603.10680)|null|
+|**2026-03-11**|**Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm**|Dongmyoung Lee et.al.|[2603.10609](http://arxiv.org/abs/2603.10609)|null|
+|**2026-03-11**|**TacLoc: Global Tactile Localization on Objects from a Registration Perspective**|Zirui Zhang et.al.|[2603.10565](http://arxiv.org/abs/2603.10565)|null|
+|**2026-03-11**|**Riemannian Geometry-Preserving Variational Autoencoder for MI-BCI Data Augmentation**|Viktorija Poļaka et.al.|[2603.10563](http://arxiv.org/abs/2603.10563)|null|
+|**2026-03-11**|**Suppressing Acoustomigration and Temperature Rise for High-power Robust Acoustics**|Fangsheng Qian et.al.|[2603.10557](http://arxiv.org/abs/2603.10557)|null|
+|**2026-03-11**|**Resource-constrained Amazons chess decision framework integrating large language models and graph attention**|Tianhao Qian et.al.|[2603.10512](http://arxiv.org/abs/2603.10512)|null|
+|**2026-03-11**|**Remote engineering of particle-like topologies to visualise entanglement dynamics**|Fazilah Nothlawala et.al.|[2603.10491](http://arxiv.org/abs/2603.10491)|null|
 |**2026-03-10**|**SignalMC-MED: A Multimodal Benchmark for Evaluating Biosignal Foundation Models on Single-Lead ECG and PPG**|Fredrik K. Gustafsson et.al.|[2603.09940](http://arxiv.org/abs/2603.09940)|null|
 |**2026-03-10**|**Nanoscale imaging of spin textures with locally varying altermagnetic response in $α$-Fe$_2$O$_3$**|R. Yamamoto et.al.|[2603.09934](http://arxiv.org/abs/2603.09934)|null|
 |**2026-03-10**|**Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs**|Zorik Gekhman et.al.|[2603.09906](http://arxiv.org/abs/2603.09906)|null|
@@ -497,6 +518,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**FRIEND: Federated Learning for Joint Optimization of multi-RIS Configuration and Eavesdropper Intelligent Detection in B5G Networks**|Maria Lamprini A. Bartsioka et.al.|[2603.10977](http://arxiv.org/abs/2603.10977)|null|
+|**2026-03-11**|**Level Crossing Rate Analysis for Optimal Single-user RIS Systems**|Amy S. Inwood et.al.|[2603.10909](http://arxiv.org/abs/2603.10909)|null|
+|**2026-03-11**|**Human Presence Detection via Wi-Fi Range-Filtered Doppler Spectrum on Commodity Laptops**|Jessica Sanson et.al.|[2603.10845](http://arxiv.org/abs/2603.10845)|null|
+|**2026-03-11**|**STM32-Based Smart Waste Bin for Hygienic Disposal Using Embedded Sensing and Automated Control**|Mohammed Aman Bhuiyan et.al.|[2603.10660](http://arxiv.org/abs/2603.10660)|null|
+|**2026-03-11**|**A New Tensor Network: Tubal Tensor Train and Its Applications**|Salman Ahmadi-Asl et.al.|[2603.10503](http://arxiv.org/abs/2603.10503)|null|
+|**2026-03-11**|**Information-Theoretic Spectroscopy: Universal Sparsity of Extinction Manifold and Optimal Sensing across Scattering Regimes**|Proity Nayeeb Akbar et.al.|[2603.10364](http://arxiv.org/abs/2603.10364)|null|
+|**2026-03-10**|**Unbalanced Optimal Transport Dictionary Learning for Unsupervised Hyperspectral Image Clustering**|Joshua Lentz et.al.|[2603.10132](http://arxiv.org/abs/2603.10132)|null|
 |**2026-03-10**|**Efficient, Adaptive Near-Field Beam Training based on Linear Bandit**|Junchi Liu et.al.|[2603.09893](http://arxiv.org/abs/2603.09893)|null|
 |**2026-03-10**|**CarbonBench: A Global Benchmark for Upscaling of Carbon Fluxes Using Zero-Shot Learning**|Aleksei Rozanov et.al.|[2603.09868](http://arxiv.org/abs/2603.09868)|null|
 |**2026-03-10**|**Trade-Offs in FMCW Radar-Based Respiration and Heart Rate Variability**|Silvia Mura et.al.|[2603.09791](http://arxiv.org/abs/2603.09791)|null|
@@ -706,6 +734,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Federated Learning-driven Beam Management in LEO 6G Non-Terrestrial Networks**|Maria Lamprini Bartsioka et.al.|[2603.10983](http://arxiv.org/abs/2603.10983)|null|
+|**2026-03-11**|**Towards Intelligent Spectrum Management: Spectrum Demand Estimation Using Graph Neural Networks**|Mohamad Alkadamani et.al.|[2603.10802](http://arxiv.org/abs/2603.10802)|null|
+|**2026-03-11**|**Spatio-Temporal Attention Graph Neural Network: Explaining Causalities With Attention**|Kosti Koistinen et.al.|[2603.10676](http://arxiv.org/abs/2603.10676)|null|
+|**2026-03-11**|**SCORE: Replacing Layer Stacking with Contractive Recurrent Depth**|Guillaume Godin et.al.|[2603.10544](http://arxiv.org/abs/2603.10544)|null|
+|**2026-03-11**|**ScanDP: Generalizable 3D Scanning with Diffusion Policy**|Itsuki Hirako et.al.|[2603.10390](http://arxiv.org/abs/2603.10390)|null|
+|**2026-03-11**|**GaLoRA: Parameter-Efficient Graph-Aware LLMs for Node Classification**|Mayur Choudhary et.al.|[2603.10298](http://arxiv.org/abs/2603.10298)|null|
+|**2026-03-10**|**Estimating condition number with Graph Neural Networks**|Erin Carson et.al.|[2603.10277](http://arxiv.org/abs/2603.10277)|null|
+|**2026-03-10**|**Octopus-inspired Distributed Control for Soft Robotic Arms: A Graph Neural Network-Based Attention Policy with Environmental Interaction**|Linxin Hou et.al.|[2603.10198](http://arxiv.org/abs/2603.10198)|null|
 |**2026-03-10**|**AI-driven Inverse Design of Complex Oxide Thin Films for Semiconductor Devices**|Bonwook Gu et.al.|[2603.09744](http://arxiv.org/abs/2603.09744)|null|
 |**2026-03-10**|**Ensuring Data Freshness in Multi-Rate Task Chains Scheduling**|José Luis Conradi Hoffmann et.al.|[2603.09738](http://arxiv.org/abs/2603.09738)|null|
 |**2026-03-10**|**Distributed Multichannel Wiener Filtering for Wireless Acoustic Sensor Networks**|Paul Didier et.al.|[2603.09735](http://arxiv.org/abs/2603.09735)|null|
@@ -962,6 +998,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Data Augmentation and Convolutional Network Architecture Influence on Distributed Learning**|Victor Forattini Jansen et.al.|[2603.10902](http://arxiv.org/abs/2603.10902)|null|
+|**2026-03-11**|**RL-Augmented MPC for Non-Gaited Legged and Hybrid Locomotion**|Andrea Patrizi et.al.|[2603.10878](http://arxiv.org/abs/2603.10878)|null|
+|**2026-03-11**|**ASTER: Attitude-aware Suspended-payload Quadrotor Traversal via Efficient Reinforcement Learning**|Dongcheng Cao et.al.|[2603.10715](http://arxiv.org/abs/2603.10715)|null|
+|**2026-03-11**|**MAVEN: A Meta-Reinforcement Learning Framework for Varying-Dynamics Expertise in Agile Quadrotor Maneuvers**|Jin Zhou et.al.|[2603.10714](http://arxiv.org/abs/2603.10714)|null|
+|**2026-03-11**|**HyPER-GAN: Hybrid Patch-Based Image-to-Image Translation for Real-Time Photorealism Enhancement**|Stefanos Pasios et.al.|[2603.10604](http://arxiv.org/abs/2603.10604)|null|
+|**2026-03-11**|**Riemannian Geometry-Preserving Variational Autoencoder for MI-BCI Data Augmentation**|Viktorija Poļaka et.al.|[2603.10563](http://arxiv.org/abs/2603.10563)|null|
+|**2026-03-11**|**PET-F2I: A Comprehensive Benchmark and Parameter-Efficient Fine-Tuning of LLMs for PET/CT Report Impression Generation**|Yuchen Liu et.al.|[2603.10560](http://arxiv.org/abs/2603.10560)|null|
+|**2026-03-11**|**FAR-Dex: Few-shot Data Augmentation and Adaptive Residual Policy Refinement for Dexterous Manipulation**|Yushan Bai et.al.|[2603.10451](http://arxiv.org/abs/2603.10451)|null|
+|**2026-03-11**|**Domain-Adaptive Health Indicator Learning with Degradation-Stage Synchronized Sampling and Cross-Domain Autoencoder**|Jungho Choo et.al.|[2603.10430](http://arxiv.org/abs/2603.10430)|null|
+|**2026-03-11**|**Enhancing Network Intrusion Detection Systems: A Multi-Layer Ensemble Approach to Mitigate Adversarial Attacks**|Nasim Soltani et.al.|[2603.10413](http://arxiv.org/abs/2603.10413)|null|
 |**2026-03-10**|**Unsupervised Domain Adaptation with Target-Only Margin Disparity Discrepancy**|Gauthier Miralles et.al.|[2603.09932](http://arxiv.org/abs/2603.09932)|null|
 |**2026-03-10**|**Emerging Extrinsic Dexterity in Cluttered Scenes via Dynamics-aware Policy Learning**|Yixin Zheng et.al.|[2603.09882](http://arxiv.org/abs/2603.09882)|null|
 |**2026-03-10**|**Finetuning a Text-to-Audio Model for Room Impulse Response Generation**|Kirak Kim et.al.|[2603.09708](http://arxiv.org/abs/2603.09708)|null|
@@ -1217,6 +1263,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Leech Lattice Vector Quantization for Efficient LLM Compression**|Tycho F. A. van der Ouderaa et.al.|[2603.11021](http://arxiv.org/abs/2603.11021)|null|
+|**2026-03-11**|**When Fine-Tuning Fails and when it Generalises: Role of Data Diversity and Mixed Training in LLM-based TTS**|Anupam Purwar et.al.|[2603.10904](http://arxiv.org/abs/2603.10904)|null|
+|**2026-03-11**|**From path integral quantization to stochastic quantization: a pedestrian's journey**|Dario Benedetti et.al.|[2603.10761](http://arxiv.org/abs/2603.10761)|null|
+|**2026-03-11**|**Double-Precision Matrix Multiplication Emulation via Ozaki-II Scheme with FP8 Quantization**|Yuki Uchino et.al.|[2603.10634](http://arxiv.org/abs/2603.10634)|null|
+|**2026-03-11**|**Quantization Robustness of Monotone Operator Equilibrium Networks**|James Li et.al.|[2603.10562](http://arxiv.org/abs/2603.10562)|null|
+|**2026-03-11**|**In-Memory ADC-Based Nonlinear Activation Quantization for Efficient In-Memory Computing**|Shuai Dong et.al.|[2603.10540](http://arxiv.org/abs/2603.10540)|null|
+|**2026-03-11**|**The Curse and Blessing of Mean Bias in FP4-Quantized LLM Training**|Hengjie Cao et.al.|[2603.10444](http://arxiv.org/abs/2603.10444)|null|
+|**2026-03-11**|**Generalized Einstein Relations between Absorption and Emission Spectra in the Electric-Dipole Approximation**|Jisu Ryu et.al.|[2603.10416](http://arxiv.org/abs/2603.10416)|null|
+|**2026-03-11**|**Differentiable Geometric Indexing for End-to-End Generative Retrieval**|Xujing Wang et.al.|[2603.10409](http://arxiv.org/abs/2603.10409)|null|
+|**2026-03-11**|**Effective theory of surface oscillations in self-bound superfluid droplets**|Jun Mitsuhashi et.al.|[2603.10304](http://arxiv.org/abs/2603.10304)|null|
 |**2026-03-10**|**Field Free Novel Architecture for Spintronic Flash Analog to Digital Converter**|Abin Francis et.al.|[2603.09878](http://arxiv.org/abs/2603.09878)|null|
 |**2026-03-10**|**Equilibrium Partition Function of Non-Relativistic CFTs in Harmonic Trap**|Eunwoo Lee et.al.|[2603.09856](http://arxiv.org/abs/2603.09856)|null|
 |**2026-03-10**|**Higher-harmonic acoustic driving of quantum-dot optical transitions beyond Rabi-frequency resonance**|Mateusz Kuniej et.al.|[2603.09849](http://arxiv.org/abs/2603.09849)|null|
@@ -1495,6 +1551,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Continuous Diffusion Transformers for Designing Synthetic Regulatory Elements**|Jonathan Liu et.al.|[2603.10885](http://arxiv.org/abs/2603.10885)|null|
+|**2026-03-11**|**Denoising diffusion and latent diffusion models for physics field simulations**|Yuan Jia et.al.|[2603.10799](http://arxiv.org/abs/2603.10799)|null|
+|**2026-03-11**|**Hybrid Photonic Quantum Reservoir Computing for High-Dimensional Financial Surface Prediction**|Fyodor Amanov et.al.|[2603.10707](http://arxiv.org/abs/2603.10707)|null|
+|**2026-03-11**|**Resource-constrained Amazons chess decision framework integrating large language models and graph attention**|Tianhao Qian et.al.|[2603.10512](http://arxiv.org/abs/2603.10512)|null|
+|**2026-03-11**|**DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control**|Teli Ma et.al.|[2603.10448](http://arxiv.org/abs/2603.10448)|null|
+|**2026-03-11**|**KnowDiffuser: A Knowledge-Guided Diffusion Planner with LM Reasoning and Prior-Informed Trajectory Initialization**|Fan Ding et.al.|[2603.10441](http://arxiv.org/abs/2603.10441)|null|
+|**2026-03-11**|**Frames2Residual: Spatiotemporal Decoupling for Self-Supervised Video Denoising**|Mingjie Ji et.al.|[2603.10417](http://arxiv.org/abs/2603.10417)|null|
+|**2026-03-11**|**Graph-GRPO: Training Graph Flow Models with Reinforcement Learning**|Baoheng Zhu et.al.|[2603.10395](http://arxiv.org/abs/2603.10395)|null|
+|**2026-03-11**|**PC-Diffuser: Path-Consistent Capsule CBF Safety Filtering for Diffusion-Based Trajectory Planner**|Eugene Ku et.al.|[2603.10330](http://arxiv.org/abs/2603.10330)|null|
+|**2026-03-10**|**Taming Score-Based Denoisers in ADMM: A Convergent Plug-and-Play Framework**|Rajesh Shrestha et.al.|[2603.10281](http://arxiv.org/abs/2603.10281)|null|
 |**2026-03-10**|**Adaptive Clinical-Aware Latent Diffusion for Multimodal Brain Image Generation and Missing Modality Imputation**|Rong Zhou et.al.|[2603.09931](http://arxiv.org/abs/2603.09931)|null|
 |**2026-03-10**|**When to Lock Attention: Training-Free KV Control in Video Diffusion**|Tianyi Zeng et.al.|[2603.09657](http://arxiv.org/abs/2603.09657)|null|
 |**2026-03-10**|**SCDP: Learning Humanoid Locomotion from Partial Observations via Mixed-Observation Distillation**|Milo Carroll et.al.|[2603.09574](http://arxiv.org/abs/2603.09574)|null|
@@ -1749,6 +1815,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Chasing RATs: Tracing Reading for and as Creative Activity**|Sophia Liu et.al.|[2603.11031](http://arxiv.org/abs/2603.11031)|null|
+|**2026-03-11**|**FRIEND: Federated Learning for Joint Optimization of multi-RIS Configuration and Eavesdropper Intelligent Detection in B5G Networks**|Maria Lamprini A. Bartsioka et.al.|[2603.10977](http://arxiv.org/abs/2603.10977)|null|
+|**2026-03-11**|**Semantic Landmark Particle Filter for Robot Localisation in Vineyards**|Rajitha de Silva et.al.|[2603.10847](http://arxiv.org/abs/2603.10847)|null|
+|**2026-03-11**|**Incremental Federated Learning for Intrusion Detection in IoT Networks under Evolving Threat Landscape**|Muaan Ur Rehman et.al.|[2603.10776](http://arxiv.org/abs/2603.10776)|null|
+|**2026-03-11**|**Adaptive Manipulation Potential and Haptic Estimation for Tool-Mediated Interaction**|Lin Yang et.al.|[2603.10352](http://arxiv.org/abs/2603.10352)|null|
+|**2026-03-11**|**Overcoming Visual Clutter in Vision Language Action Models via Concept-Gated Visual Distillation**|Sangmim Song et.al.|[2603.10340](http://arxiv.org/abs/2603.10340)|null|
 |**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|null|
 |**2026-03-10**|**X-GS: An Extensible Open Framework Unifying 3DGS Architectures with Downstream Multimodal Models**|Yueen Ma et.al.|[2603.09632](http://arxiv.org/abs/2603.09632)|null|
 |**2026-03-10**|**Towards Terrain-Aware Safe Locomotion for Quadrupedal Robots Using Proprioceptive Sensing**|Peiyu Yang et.al.|[2603.09585](http://arxiv.org/abs/2603.09585)|null|

@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**S $^{3}$ G: Stock State Space Graph for Enhanced Stock Trend Prediction**|Yao Lu et.al.|[2603.24236](http://arxiv.org/abs/2603.24236)|null|
+|**2026-03-24**|**Causal Reconstruction of Sentiment Signals from Sparse News Data**|Stefania Stan et.al.|[2603.23568](http://arxiv.org/abs/2603.23568)|null|
 |**2026-03-24**|**Investigating peculiar prompt emission properties of the multi-Peaked GRB 250129A**|Ankur Ghosh et.al.|[2603.23384](http://arxiv.org/abs/2603.23384)|null|
 |**2026-03-23**|**The Radio-wave Observations at the Lunar Surface of the photoElectron Sheath (ROLSES) instrument onboard the Intuitive Machines-1 Mission to the Moon**|Nat Gopalswamy et.al.|[2603.22600](http://arxiv.org/abs/2603.22600)|null|
 |**2026-03-23**|**Kummitus: a light-weight toolbox for counting DOF in perturbative QFT**|Carlo Marzo et.al.|[2603.22451](http://arxiv.org/abs/2603.22451)|null|
@@ -333,6 +335,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**Composer 2 Technical Report**|Cursor Reseach et.al.|[2603.24477](http://arxiv.org/abs/2603.24477)|null|
+|**2026-03-25**|**GeoRouter: Dynamic Paradigm Routing for Worldwide Image Geolocalization**|Pengyue Jia et.al.|[2603.24376](http://arxiv.org/abs/2603.24376)|null|
+|**2026-03-25**|**UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking**|Liren Yu et.al.|[2603.24226](http://arxiv.org/abs/2603.24226)|null|
+|**2026-03-25**|**Digitally Optimized Initializations for Fast Thermodynamic Computing**|Mattia Moroder et.al.|[2603.24183](http://arxiv.org/abs/2603.24183)|null|
+|**2026-03-25**|**FFV-PINN: A Fast Physics-Informed Neural Network with Simplified Finite Volume Discretization and Residual Correction**|Chang Wei et.al.|[2603.24114](http://arxiv.org/abs/2603.24114)|null|
+|**2026-03-25**|**SpectralSplats: Robust Differentiable Tracking via Spectral Moment Supervision**|Avigail Cohen Rimon et.al.|[2603.24036](http://arxiv.org/abs/2603.24036)|null|
+|**2026-03-25**|**MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics**|Junheng Li et.al.|[2603.23995](http://arxiv.org/abs/2603.23995)|null|
 |**2026-03-24**|**Quantum Saturation of the Electro-Optic Effect**|Aiden Ross et.al.|[2603.23486](http://arxiv.org/abs/2603.23486)|null|
 |**2026-03-24**|**Harnessing Lightweight Transformer with Contextual Synergic Enhancement for Efficient 3D Medical Image Segmentation**|Xinyu Liu et.al.|[2603.23390](http://arxiv.org/abs/2603.23390)|null|
 |**2026-03-24**|**Object Pose Transformer: Unifying Unseen Object Pose Estimation**|Weihang Li et.al.|[2603.23370](http://arxiv.org/abs/2603.23370)|null|
@@ -709,6 +718,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**The role of spatial context and multitask learning in the detection of organic and conventional farming systems based on Sentinel-2 time series**|Jan Hemmerling et.al.|[2603.24552](http://arxiv.org/abs/2603.24552)|null|
+|**2026-03-25**|**Cemented fibers as a testbed for distributed acoustic sensing (DAS)**|Thomas Forbriger et.al.|[2603.24353](http://arxiv.org/abs/2603.24353)|null|
+|**2026-03-25**|**Connecting Meteorite Spectra to Lunar Surface Composition Using Hyperspectral Imaging and Machine Learning**|Fatemeh Fazel Hesar et.al.|[2603.24323](http://arxiv.org/abs/2603.24323)|null|
+|**2026-03-25**|**S $^{3}$ G: Stock State Space Graph for Enhanced Stock Trend Prediction**|Yao Lu et.al.|[2603.24236](http://arxiv.org/abs/2603.24236)|null|
+|**2026-03-25**|**Aitchison Geometry on the Simplex for Uncertainty Quantification in Bayesian Hyperspectral Image Unmixing**|Hector Blondel et.al.|[2603.24108](http://arxiv.org/abs/2603.24108)|null|
+|**2026-03-25**|**LGEST: Dynamic Spatial-Spectral Expert Routing for Hyperspectral Image Classification**|Jiawen Wen et.al.|[2603.24045](http://arxiv.org/abs/2603.24045)|null|
+|**2026-03-25**|**DB SwinT: A Dual-Branch Swin Transformer Network for Road Extraction in Optical Remote Sensing Imagery**|Zongyang He et.al.|[2603.24005](http://arxiv.org/abs/2603.24005)|null|
+|**2026-03-25**|**6D Movable Antenna for Internet of Vehicles: CSI-Free Dynamic Antenna Configuration**|Maoxin Ji et.al.|[2603.23991](http://arxiv.org/abs/2603.23991)|null|
 |**2026-03-24**|**GeoSANE: Learning Geospatial Representations from Models, Not Data**|Joelle Hanna et.al.|[2603.23408](http://arxiv.org/abs/2603.23408)|null|
 |**2026-03-24**|**Autoencoder-based Optimization of Multi-user Molecule Mixture Communication Systems**|Bastian Heinlein et.al.|[2603.23262](http://arxiv.org/abs/2603.23262)|null|
 |**2026-03-24**|**Dual Contrastive Network for Few-Shot Remote Sensing Image Scene Classification**|Zhong Ji et.al.|[2603.23161](http://arxiv.org/abs/2603.23161)|null|
@@ -1011,6 +1028,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction**|Falong Fan et.al.|[2603.24577](http://arxiv.org/abs/2603.24577)|null|
+|**2026-03-25**|**Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations**|Ian Störmer et.al.|[2603.24360](http://arxiv.org/abs/2603.24360)|null|
+|**2026-03-25**|**CGRL: Causal-Guided Representation Learning for Graph Out-of-Distribution Generalization**|Bowen Lu et.al.|[2603.24304](http://arxiv.org/abs/2603.24304)|null|
+|**2026-03-25**|**Cost-Sensitive Neighborhood Aggregation for Heterophilous Graphs: When Does Per-Edge Routing Help?**|Eyal Weiss et.al.|[2603.24291](http://arxiv.org/abs/2603.24291)|null|
+|**2026-03-25**|**DeepDTF: Dual-Branch Transformer Fusion for Multi-Omics Anticancer Drug Response Prediction**|Yuhan Zhao et.al.|[2603.24265](http://arxiv.org/abs/2603.24265)|null|
+|**2026-03-25**|**Reservoir-Based Graph Convolutional Networks**|Mayssa Soussia et.al.|[2603.24131](http://arxiv.org/abs/2603.24131)|null|
+|**2026-03-25**|**On Gossip Algorithms for Machine Learning with Pairwise Objectives**|Igor Colin et.al.|[2603.24128](http://arxiv.org/abs/2603.24128)|null|
+|**2026-03-25**|**Comparative analysis of dual-form networks for live land monitoring using multi-modal satellite image time series**|Iris Dumeur et.al.|[2603.24109](http://arxiv.org/abs/2603.24109)|null|
+|**2026-03-25**|**KCLNet: Electrically Equivalence-Oriented Graph Representation Learning for Analog Circuits**|Peng Xu et.al.|[2603.24101](http://arxiv.org/abs/2603.24101)|null|
+|**2026-03-25**|**The impact of sensor placement on graph-neural-network-based leakage detection**|J. J. H. van Gemert et.al.|[2603.24076](http://arxiv.org/abs/2603.24076)|null|
 |**2026-03-24**|**VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs**|Haoran Yuan et.al.|[2603.23481](http://arxiv.org/abs/2603.23481)|null|
 |**2026-03-24**|**Self-Supervised Graph Neural Networks for Optimal Substation Reconfiguration**|Antoine Martinez et.al.|[2603.23401](http://arxiv.org/abs/2603.23401)|null|
 |**2026-03-24**|**Robust and Interpretable Graph Neural Networks for Power Systems State Estimation**|Arbel Yaniv et.al.|[2603.23357](http://arxiv.org/abs/2603.23357)|null|
@@ -1366,6 +1393,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**Conformalized Transfer Learning for Li-ion Battery State of Health Forecasting under Manufacturing and Usage Variability**|Samuel Filgueira da Silva et.al.|[2603.24475](http://arxiv.org/abs/2603.24475)|null|
+|**2026-03-25**|**Causal Transfer in Medical Image Analysis**|Mohammed M. Abdelsamea et.al.|[2603.24388](http://arxiv.org/abs/2603.24388)|null|
+|**2026-03-25**|**Heuristic Self-Paced Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions**|Shiqin Wang et.al.|[2603.24322](http://arxiv.org/abs/2603.24322)|null|
+|**2026-03-25**|**A Bayesian Dynamic Latent Space Model for Weighted Networks**|Roberto Casarin et.al.|[2603.24201](http://arxiv.org/abs/2603.24201)|null|
+|**2026-03-25**|**Enhancing and Reporting Robustness Boundary of Neural Code Models for Intelligent Code Understanding**|Tingxu Han et.al.|[2603.24119](http://arxiv.org/abs/2603.24119)|null|
+|**2026-03-25**|**Transcending Classical Neural Network Boundaries: A Quantum-Classical Synergistic Paradigm for Seismic Data Processing**|Zhengyi Yuan et.al.|[2603.23984](http://arxiv.org/abs/2603.23984)|null|
+|**2026-03-25**|**SynMVCrowd: A Large Synthetic Benchmark for Multi-view Crowd Counting and Localization**|Qi Zhang et.al.|[2603.23956](http://arxiv.org/abs/2603.23956)|null|
+|**2026-03-25**|**3D-LLDM: Label-Guided 3D Latent Diffusion Model for Improving High-Resolution Synthetic MR Imaging in Hepatic Structure Segmentation**|Kyeonghun Kim et.al.|[2603.23845](http://arxiv.org/abs/2603.23845)|null|
+|**2026-03-24**|**Probabilistic Geometric Alignment via Bayesian Latent Transport for Domain-Adaptive Foundation Models**|Kuepon Aueawatthanaphisut et.al.|[2603.23783](http://arxiv.org/abs/2603.23783)|null|
+|**2026-03-24**|**Wasserstein Parallel Transport for Predicting the Dynamics of Statistical Systems**|Tristan Luca Saidi et.al.|[2603.23736](http://arxiv.org/abs/2603.23736)|null|
 |**2026-03-24**|**GSwap: Realistic Head Swapping with Dynamic Neural Gaussian Field**|Jingtao Zhou et.al.|[2603.23168](http://arxiv.org/abs/2603.23168)|null|
 |**2026-03-24**|**Tightly-Coupled Radar-Visual-Inertial Odometry**|Morten Nissov et.al.|[2603.23052](http://arxiv.org/abs/2603.23052)|null|
 |**2026-03-24**|**Dual-Teacher Distillation with Subnetwork Rectification for Black-Box Domain Adaptation**|Zhe Zhang et.al.|[2603.22908](http://arxiv.org/abs/2603.22908)|null|
@@ -1726,6 +1763,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**Fractal universe and quantum gravity made simple**|Fabio Briscese et.al.|[2603.24593](http://arxiv.org/abs/2603.24593)|null|
+|**2026-03-25**|**Interlayer Coupling and Floquet-Driven Topological Phases in Bilayer Haldane Lattices**|Imtiaz Khan et.al.|[2603.24551](http://arxiv.org/abs/2603.24551)|null|
+|**2026-03-25**|**JSSAnet: Theory-Guided Subchannel Partitioning and Joint Spatial Attention for Near-Field Channel Estimation**|Zhiming Zhu et.al.|[2603.24505](http://arxiv.org/abs/2603.24505)|null|
+|**2026-03-25**|**Cyclic adjoint modules and their embeddings in quantized enveloping algebras**|Arnab Bhattacharjee et.al.|[2603.24490](http://arxiv.org/abs/2603.24490)|null|
+|**2026-03-25**|**Raman phonon dynamics and its control for enhanced optical frequency conversion**|Yi-Hao Chen et.al.|[2603.24386](http://arxiv.org/abs/2603.24386)|null|
+|**2026-03-25**|**Topological insulator single-electron transistors for charge sensing applications**|Omargeldi Atanov et.al.|[2603.24220](http://arxiv.org/abs/2603.24220)|null|
+|**2026-03-25**|**Magnetic-monopole resummation justifies perturbatively calculated collider production cross sections**|Jean Alexandre et.al.|[2603.24200](http://arxiv.org/abs/2603.24200)|null|
+|**2026-03-25**|**MedAidDialog: A Multilingual Multi-Turn Medical Dialogue Dataset for Accessible Healthcare**|Shubham Kumar Nigam et.al.|[2603.24132](http://arxiv.org/abs/2603.24132)|null|
+|**2026-03-25**|**Unified ab initio quantum-electrodynamical density-functional theory for cavity-modified electron-phonon-photon coupling in solids**|Benshu Fan et.al.|[2603.24095](http://arxiv.org/abs/2603.24095)|null|
+|**2026-03-25**|**Mixed-State Topological Phase: Quantized Topological Order Parameter and Lieb-Schultz-Mattis Theorem**|Linhao Li et.al.|[2603.24031](http://arxiv.org/abs/2603.24031)|null|
 |**2026-03-24**|**Deformation quantization for systems with second-class constraints in deformed fermionic phase space**|Bing-Sheng Lin et.al.|[2603.23411](http://arxiv.org/abs/2603.23411)|null|
 |**2026-03-24**|**Occupation-selective topological pumping from Floquet gauge fields**|Wenjie Liu et.al.|[2603.23307](http://arxiv.org/abs/2603.23307)|null|
 |**2026-03-24**|**Block Coordinate Descent for Dynamic Portfolio Optimization on Finite-Precision Coherent Ising Machines**|Keming He et.al.|[2603.23200](http://arxiv.org/abs/2603.23200)|null|
@@ -2112,6 +2159,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving**|Pengxuan Yang et.al.|[2603.24587](http://arxiv.org/abs/2603.24587)|null|
+|**2026-03-25**|**Anti-I2V: Safeguarding your photos from malicious image-to-video generation**|Duc Vu et.al.|[2603.24570](http://arxiv.org/abs/2603.24570)|null|
+|**2026-03-25**|**Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep**|Tianyi Liu et.al.|[2603.24260](http://arxiv.org/abs/2603.24260)|null|
+|**2026-03-25**|**InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment**|Zixin Guo et.al.|[2603.24240](http://arxiv.org/abs/2603.24240)|null|
+|**2026-03-25**|**S $^{3}$ G: Stock State Space Graph for Enhanced Stock Trend Prediction**|Yao Lu et.al.|[2603.24236](http://arxiv.org/abs/2603.24236)|null|
+|**2026-03-25**|**A convergent Plug-and-Play Majorization-Minimization algorithm for Poisson inverse problems**|Thibaut Modrzyk et.al.|[2603.24156](http://arxiv.org/abs/2603.24156)|null|
+|**2026-03-25**|**Transcending Classical Neural Network Boundaries: A Quantum-Classical Synergistic Paradigm for Seismic Data Processing**|Zhengyi Yuan et.al.|[2603.23984](http://arxiv.org/abs/2603.23984)|null|
+|**2026-03-25**|**APISENSOR: Robust Discovery of Web API from Runtime Traffic Logs**|Yanjing Yang et.al.|[2603.23852](http://arxiv.org/abs/2603.23852)|null|
+|**2026-03-24**|**MoCHA: Denoising Caption Supervision for Motion-Text Retrieval**|Nikolai Warner et.al.|[2603.23684](http://arxiv.org/abs/2603.23684)|null|
 |**2026-03-24**|**PiCo: Active Manifold Canonicalization for Robust Robotic Visual Anomaly Detection**|Teng Yan et.al.|[2603.23122](http://arxiv.org/abs/2603.23122)|null|
 |**2026-03-24**|**Markov-Enforced Discrete Diffusion Model for Digital Semantic Symbol Error Correction**|Yoon Huh et.al.|[2603.22983](http://arxiv.org/abs/2603.22983)|null|
 |**2026-03-24**|**Asymptotic Learning Curves for Diffusion Models with Random Features Score and Manifold Data**|Anand Jerry George et.al.|[2603.22962](http://arxiv.org/abs/2603.22962)|null|
@@ -2466,6 +2522,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-25**|**Uncovering Memorization in Timeseries Imputation models: LBRM Membership Inference and its link to attribute Leakage**|Faiz Taleb et.al.|[2603.24213](http://arxiv.org/abs/2603.24213)|null|
+|**2026-03-25**|**On Gossip Algorithms for Machine Learning with Pairwise Objectives**|Igor Colin et.al.|[2603.24128](http://arxiv.org/abs/2603.24128)|null|
+|**2026-03-25**|**Toward a Multi-Layer ML-Based Security Framework for Industrial IoT**|Aymen Bouferroum et.al.|[2603.24111](http://arxiv.org/abs/2603.24111)|null|
+|**2026-03-25**|**Knowledge-Guided Manipulation Using Multi-Task Reinforcement Learning**|Aditya Narendra et.al.|[2603.24083](http://arxiv.org/abs/2603.24083)|null|
+|**2026-03-25**|**The Evolution of Decentralized Systems: From Gray's Framework to Blockchain and Beyond**|Zhongli Dong et.al.|[2603.23819](http://arxiv.org/abs/2603.23819)|null|
 |**2026-03-24**|**Targeted Adversarial Traffic Generation : Black-box Approach to Evade Intrusion Detection Systems in IoT Networks**|Islam Debicha et.al.|[2603.23438](http://arxiv.org/abs/2603.23438)|null|
 |**2026-03-24**|**Symbol-Synchronous Communication for Ultra-Low-Power Multi-Hop Ambient IoT Networks**|Xinlei Liu et.al.|[2603.23084](http://arxiv.org/abs/2603.23084)|null|
 |**2026-03-24**|**MsFormer: Enabling Robust Predictive Maintenance Services for Industrial Devices**|Jiahui Zhou et.al.|[2603.23076](http://arxiv.org/abs/2603.23076)|null|

@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**STS-Mixer: Spatio-Temporal-Spectral Mixer for 4D Point Cloud Video Understanding**|Wenhao Li et.al.|[2604.11637](http://arxiv.org/abs/2604.11637)|null|
 |**2026-04-12**|**Explosive Synchronization and Magnetic Chimeras via the Simplicial Bridge in Helimagnetic Lattices**|Alok Yadav et.al.|[2604.10773](http://arxiv.org/abs/2604.10773)|null|
 |**2026-04-12**|**Rate of convergence of a nonlinear heat equation with a constraint of codimension one**|Ashish Bawalia et.al.|[2604.10735](http://arxiv.org/abs/2604.10735)|null|
 |**2026-04-12**|**Defending against Patch-Based and Texture-Based Adversarial Attacks with Spectral Decomposition**|Wei Zhang et.al.|[2604.10715](http://arxiv.org/abs/2604.10715)|null|
@@ -421,6 +422,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation**|Donghao Zhou et.al.|[2604.11804](http://arxiv.org/abs/2604.11804)|null|
+|**2026-04-13**|**ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents**|Fei Tang et.al.|[2604.11784](http://arxiv.org/abs/2604.11784)|null|
+|**2026-04-13**|**Self-Configuring Universal Multichannel and Multidimensional Integrated Photonic Processing Engine**|Zengqi Chen et.al.|[2604.11763](http://arxiv.org/abs/2604.11763)|null|
+|**2026-04-13**|**AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation**|Mingyang Li et.al.|[2604.11674](http://arxiv.org/abs/2604.11674)|null|
 |**2026-04-13**|**From Multimodal Signals to Adaptive XR Experiences for De-escalation Training**|Birgit Nierula et.al.|[2604.11570](http://arxiv.org/abs/2604.11570)|null|
 |**2026-04-13**|**bacpipe: a Python package to make bioacoustic deep learning models accessible**|Vincent S. Kather et.al.|[2604.11560](http://arxiv.org/abs/2604.11560)|null|
 |**2026-04-13**|**SemaClaw: A Step Towards General-Purpose Personal AI Agents through Harness Engineering**|Ningyan Zhu et.al.|[2604.11548](http://arxiv.org/abs/2604.11548)|null|
@@ -914,6 +919,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**A Mamba-Based Multimodal Network for Multiscale Blast-Induced Rapid Structural Damage Assessment**|Wanli Ma et.al.|[2604.11709](http://arxiv.org/abs/2604.11709)|null|
 |**2026-04-13**|**The Impact of Federated Learning on Distributed Remote Sensing Archives**|Anand Umashankar et.al.|[2604.11562](http://arxiv.org/abs/2604.11562)|null|
 |**2026-04-13**|**HuiYanEarth-SAR: A Foundation Model for High-Fidelity and Low-Cost Global Remote Sensing Imagery Generation**|Yongxiang Liu et.al.|[2604.11444](http://arxiv.org/abs/2604.11444)|null|
 |**2026-04-13**|**Observe Less, Understand More: Cost-aware Cross-scale Observation for Remote Sensing Understanding**|Zhenghao Xie et.al.|[2604.11415](http://arxiv.org/abs/2604.11415)|null|
@@ -1325,6 +1331,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions**|Manuela González-González et.al.|[2604.11730](http://arxiv.org/abs/2604.11730)|null|
 |**2026-04-13**|**From Multimodal Signals to Adaptive XR Experiences for De-escalation Training**|Birgit Nierula et.al.|[2604.11570](http://arxiv.org/abs/2604.11570)|null|
 |**2026-04-13**|**Learning How Much to Think: Difficulty-Aware Dynamic MoEs for Graph Node Classification**|Jiajun Zhou et.al.|[2604.11473](http://arxiv.org/abs/2604.11473)|null|
 |**2026-04-13**|**One Scale at a Time: Scale-Autoregressive Modeling for Fluid Flow Distributions**|Mario Lino et.al.|[2604.11403](http://arxiv.org/abs/2604.11403)|null|
@@ -1805,6 +1812,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Who Handles Orientation? Investigating Invariance in Feature Matching**|David Nordström et.al.|[2604.11809](http://arxiv.org/abs/2604.11809)|null|
+|**2026-04-13**|**Solving Physics Olympiad via Reinforcement Learning on Physics Simulators**|Mihir Prabhudesai et.al.|[2604.11805](http://arxiv.org/abs/2604.11805)|null|
+|**2026-04-13**|**Ambivalence/Hesitancy Recognition in Videos for Personalized Digital Health Interventions**|Manuela González-González et.al.|[2604.11730](http://arxiv.org/abs/2604.11730)|null|
+|**2026-04-13**|**Legal2LogicICL: Improving Generalization in Transforming Legal Cases to Logical Formulas via Diverse Few-Shot Learning**|Jieying Xue et.al.|[2604.11699](http://arxiv.org/abs/2604.11699)|null|
+|**2026-04-13**|**Dual-Control Frequency-Aware Diffusion Model for Depth-Dependent Optical Microrobot Microscopy Image Generation**|Lan Wei et.al.|[2604.11680](http://arxiv.org/abs/2604.11680)|null|
 |**2026-04-13**|**ComSim: Building Scalable Real-World Robot Data Generation via Compositional Simulation**|Yiran Qin et.al.|[2604.11386](http://arxiv.org/abs/2604.11386)|null|
 |**2026-04-13**|**Speaker Attributed Automatic Speech Recognition Using Speech Aware LLMS**|Hagai Aronowitz et.al.|[2604.11269](http://arxiv.org/abs/2604.11269)|null|
 |**2026-04-13**|**Teaching the Teachers: Boosting unsupervised domain adaptation in speech recognition by ensemble update**|Rehan Ahmad et.al.|[2604.11256](http://arxiv.org/abs/2604.11256)|null|
@@ -2285,6 +2297,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Trapped bosons in mean field QED, nonlinear resonance cascades and dynamical BEC formation**|Thomas Chen et.al.|[2604.11756](http://arxiv.org/abs/2604.11756)|null|
+|**2026-04-13**|**On the Robustness of Watermarking for Autoregressive Image Generation**|Andreas Müller et.al.|[2604.11720](http://arxiv.org/abs/2604.11720)|null|
+|**2026-04-13**|**RPA-Check: A Multi-Stage Automated Framework for Evaluating Dynamic LLM-based Role-Playing Agents**|Riccardo Rosati et.al.|[2604.11655](http://arxiv.org/abs/2604.11655)|null|
 |**2026-04-13**|**DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models**|Siyuan Xu et.al.|[2604.11572](http://arxiv.org/abs/2604.11572)|null|
 |**2026-04-13**|**A Systematic Study of Noise Effects in Hybrid Quantum-Classical Machine Learning**|Bhavna Bose et.al.|[2604.11541](http://arxiv.org/abs/2604.11541)|null|
 |**2026-04-13**|**Quantization Dominates Rank Reduction for KV-Cache Compression**|Samuel Salfati et.al.|[2604.11501](http://arxiv.org/abs/2604.11501)|null|
@@ -2800,6 +2815,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**SyncFix: Fixing 3D Reconstructions via Multi-View Synchronization**|Deming Li et.al.|[2604.11797](http://arxiv.org/abs/2604.11797)|null|
+|**2026-04-13**|**Multi-ORFT: Stable Online Reinforcement Fine-Tuning for Multi-Agent Diffusion Planning in Cooperative Driving**|Haojie Bai et.al.|[2604.11734](http://arxiv.org/abs/2604.11734)|null|
+|**2026-04-13**|**Beyond LLMs, Sparse Distributed Memory, and Neuromorphics <A Hyper-Dimensional SRAM-CAM "VaCoAl" for Ultra-High Speed, Ultra-Low Power, and Low Cost>**|Hiroyuki Chuma et.al.|[2604.11665](http://arxiv.org/abs/2604.11665)|null|
 |**2026-04-13**|**CAGenMol: Condition-Aware Diffusion Language Model for Goal-Directed Molecular Generation**|Yanting Li et.al.|[2604.11483](http://arxiv.org/abs/2604.11483)|null|
 |**2026-04-13**|**Beyond Model Design: Data-Centric Training and Self-Ensemble for Gaussian Color Image Denoising**|Gengjia Chang et.al.|[2604.11468](http://arxiv.org/abs/2604.11468)|null|
 |**2026-04-13**|**Video-based Heart Rate Estimation with Angle-guided ROI Optimization and Graph Signal Denoising**|Gan Pei et.al.|[2604.11395](http://arxiv.org/abs/2604.11395)|null|
@@ -3270,6 +3288,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Micro-Dexterity in Biological Micromanipulation: Embodiment, Perception, and Control**|Kangyi Lu et.al.|[2604.11640](http://arxiv.org/abs/2604.11640)|null|
 |**2026-04-13**|**Optimizing IoT Intrusion Detection with Tabular Foundation Models for Smart City Forensics**|Asma Al-Dahmani et.al.|[2604.11394](http://arxiv.org/abs/2604.11394)|null|
 |**2026-04-13**|**MR.ScaleMaster: Scale-Consistent Collaborative Mapping from Crowd-Sourced Monocular Videos**|Hyoseok Ju et.al.|[2604.11372](http://arxiv.org/abs/2604.11372)|null|
 |**2026-04-13**|**BRIDGE and TCH-Net: Heterogeneous Benchmark and Multi-Branch Baseline for Cross-Domain IoT Botnet Detection**|Ammar Bhilwarawala et.al.|[2604.11324](http://arxiv.org/abs/2604.11324)|null|

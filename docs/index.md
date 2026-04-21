@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Spectral theory of plasmonic resonances in the nonlocal regime**|Hyundae Lee et.al.|[2604.18461](http://arxiv.org/abs/2604.18461)|null|
+|**2026-04-20**|**Recurrence analysis of quantum many-body dynamics**|Tomasz Szołdra et.al.|[2604.18446](http://arxiv.org/abs/2604.18446)|null|
+|**2026-04-20**|**Spectroscopic survey of faint planetary-nebula nuclei. VII. Thirty new hydrogen-deficient central stars**|Klaus Werner et.al.|[2604.18340](http://arxiv.org/abs/2604.18340)|null|
 |**2026-04-20**|**Three Subclasses of the Intensity-tracking Pattern in Gamma-Ray Burst Spectral Evolution**|Liang Li et.al.|[2604.17835](http://arxiv.org/abs/2604.17835)|null|
 |**2026-04-18**|**The Quaternion Boostlet Transform: Definition, Properties and Uncertainty Principles**|Owais Ahmad et.al.|[2604.17029](http://arxiv.org/abs/2604.17029)|null|
 |**2026-04-18**|**Frequency-Decomposed INR for NIR-Assisted Low-Light RGB Image Denoising**|Ligen Shi et.al.|[2604.16800](http://arxiv.org/abs/2604.16800)|null|
@@ -280,6 +283,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**HiGMem: A Hierarchical and LLM-Guided Memory System for Long-Term Conversational Agents**|Shuqi Cao et.al.|[2604.18349](http://arxiv.org/abs/2604.18349)|null|
+|**2026-04-20**|**Fast dynamic wavefront correction for multi-photon microscopy with a high resolution MEMS phase-only modulator**|Juan David Muñoz-Bolaños et.al.|[2604.18342](http://arxiv.org/abs/2604.18342)|null|
 |**2026-04-20**|**SpaceDex: Generalizable Dexterous Grasping in Tiered Workspaces**|Wensheng Wang et.al.|[2604.17888](http://arxiv.org/abs/2604.17888)|null|
 |**2026-04-19**|**AnchorMem: Anchored Facts with Associative Contexts for Building Memory in Large Language Models**|Zhanyu Shen et.al.|[2604.17377](http://arxiv.org/abs/2604.17377)|null|
 |**2026-04-18**|**HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents**|Jinchang Zhu et.al.|[2604.16839](http://arxiv.org/abs/2604.16839)|null|
@@ -442,6 +447,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**ClawEnvKit: Automatic Environment Generation for Claw-Like Agents**|Xirui Li et.al.|[2604.18543](http://arxiv.org/abs/2604.18543)|null|
+|**2026-04-20**|**LLM Safety From Within: Detecting Harmful Content with Internal Representations**|Difan Jiao et.al.|[2604.18519](http://arxiv.org/abs/2604.18519)|null|
+|**2026-04-20**|**StepPO: Step-Aligned Policy Optimization for Agentic Reinforcement Learning**|Daoyu Wang et.al.|[2604.18401](http://arxiv.org/abs/2604.18401)|null|
+|**2026-04-20**|**EVE: Verifiable Self-Evolution of MLLMs via Executable Visual Transformations**|Yongrui Heng et.al.|[2604.18320](http://arxiv.org/abs/2604.18320)|null|
+|**2026-04-20**|**Towards Symmetry-sensitive Pose Estimation: A Rotation Representation for Symmetric Object Classes**|Andreas Kriegler et.al.|[2604.18208](http://arxiv.org/abs/2604.18208)|null|
+|**2026-04-20**|**Architectural Design Decisions in AI Agent Harnesses**|Hu Wei et.al.|[2604.18071](http://arxiv.org/abs/2604.18071)|null|
 |**2026-04-20**|**Towards Real-Time ECG and EMG Modeling on $μ$ NPUs**|Josh Millar et.al.|[2604.18067](http://arxiv.org/abs/2604.18067)|null|
 |**2026-04-20**|**Identifying Ethical Biases in Action Recognition Models**|Ana Baltaretu et.al.|[2604.17971](http://arxiv.org/abs/2604.17971)|null|
 |**2026-04-20**|**Brain-Inspired Capture: Evidence-Driven Neuromimetic Perceptual Simulation for Visual Decoding**|Feixue Shao et.al.|[2604.17927](http://arxiv.org/abs/2604.17927)|null|
@@ -984,6 +995,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Joint Scheduling of Multi-Band Radar Sensing and DNN Inference for Cross-Stage Parallelism**|Yanan Du et.al.|[2604.18520](http://arxiv.org/abs/2604.18520)|null|
+|**2026-04-20**|**Revisiting Change VQA in Remote Sensing with Structured and Native Multimodal Qwen Models**|Yakoub Bazi et.al.|[2604.18429](http://arxiv.org/abs/2604.18429)|null|
+|**2026-04-20**|**Forecasting Ionospheric Irregularities on GNSS Lines of Sight Using Dynamic Graphs with Ephemeris Conditioning**|Mert Can Turkmen et.al.|[2604.18379](http://arxiv.org/abs/2604.18379)|null|
+|**2026-04-20**|**RSMA-Aided Full-Duplex Networks Under Imperfect CSI and SIC: Performance Evaluation**|Farjam Karim et.al.|[2604.18279](http://arxiv.org/abs/2604.18279)|null|
+|**2026-04-20**|**Impact of CSIR, SIC, and Hardware Impairments on the Ergodic Rate of Downlink RSMA**|Farjam Karim et.al.|[2604.18269](http://arxiv.org/abs/2604.18269)|null|
+|**2026-04-20**|**DiffuSAM: Diffusion Guided Zero-Shot Object Grounding for Remote Sensing Imagery**|Geet Sethi et.al.|[2604.18201](http://arxiv.org/abs/2604.18201)|null|
+|**2026-04-20**|**Understanding the complex morphology of a CME II: how pre-eruptive conditions shape CME evolution**|Abril Sahade et.al.|[2604.18188](http://arxiv.org/abs/2604.18188)|null|
 |**2026-04-20**|**HolmeSketcher: Generative 3D Sketch Mapping for Spatial Reconstruction in Crime Scene Investigation**|Tianyi Xiao et.al.|[2604.18039](http://arxiv.org/abs/2604.18039)|null|
 |**2026-04-20**|**Paradigm Shift from Statistical Channel Modeling to Digital Twin Prediction: An Environment-Generalizable ChannelLM for 6G AI-enabled Air Interface**|Yichen Cai et.al.|[2604.18021](http://arxiv.org/abs/2604.18021)|null|
 |**2026-04-20**|**Advances in photocathode development for PICOSEC Micromegas precise-timing detectors**|M. Lisowska et.al.|[2604.17953](http://arxiv.org/abs/2604.17953)|null|
@@ -1960,6 +1978,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Is SAM3 ready for pathology segmentation?**|Qiuyu Kong et.al.|[2604.18225](http://arxiv.org/abs/2604.18225)|null|
+|**2026-04-20**|**VerilogCL: A Contrastive Learning Framework for Robust LLM-Based Verilog Generation**|Yan Tan et.al.|[2604.18162](http://arxiv.org/abs/2604.18162)|null|
+|**2026-04-20**|**mlr3torch: A Deep Learning Framework in R based on mlr3 and torch**|Sebastian Fischer et.al.|[2604.18152](http://arxiv.org/abs/2604.18152)|null|
+|**2026-04-20**|**Test-Time Perturbation Learning with Delayed Feedback for Vision-Language-Action Models**|Zehua Zang et.al.|[2604.18107](http://arxiv.org/abs/2604.18107)|null|
+|**2026-04-20**|**Mix and Match: Context Pairing for Scalable Topic-Controlled Educational Summarisation**|Nathikan Yodthapa et.al.|[2604.18087](http://arxiv.org/abs/2604.18087)|null|
 |**2026-04-20**|**Variational Autoencoder Domain Adaptation for Cross-System Generalization in ML-Based SOP Monitoring**|Leyla Sadighi et.al.|[2604.18035](http://arxiv.org/abs/2604.18035)|null|
 |**2026-04-20**|**Heterogeneity in Formal Linguistic Competence of Language Models: Is Data the Real Bottleneck?**|H S V N S Kowndinya Renduchintala et.al.|[2604.17930](http://arxiv.org/abs/2604.17930)|null|
 |**2026-04-20**|**LLM-AUG: Robust Wireless Data Augmentation with In-Context Learning in Large Language Models**|Pranshav Gajjar et.al.|[2604.17770](http://arxiv.org/abs/2604.17770)|null|
@@ -2481,6 +2504,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion**|Terry Leitch et.al.|[2604.18566](http://arxiv.org/abs/2604.18566)|null|
+|**2026-04-20**|**GSQ: Highly-Accurate Low-Precision Scalar Quantization for LLMs via Gumbel-Softmax Sampling**|Alireza Dadgarnia et.al.|[2604.18556](http://arxiv.org/abs/2604.18556)|null|
+|**2026-04-20**|**A Note on TurboQuant and the Earlier DRIVE/EDEN Line of Work**|Ran Ben-Basat et.al.|[2604.18555](http://arxiv.org/abs/2604.18555)|null|
+|**2026-04-20**|**MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation**|Tanjim Rahaman Fardin et.al.|[2604.18537](http://arxiv.org/abs/2604.18537)|null|
+|**2026-04-20**|**Tensor Processing with Homodyne Photonic Integrated Circuits exceeds 1,000 TOPS**|Lian Zhou et.al.|[2604.18496](http://arxiv.org/abs/2604.18496)|null|
+|**2026-04-20**|**Generalized parton distributions of valence, sea, and gluon components of the proton**|Yiping Liu et.al.|[2604.18355](http://arxiv.org/abs/2604.18355)|null|
+|**2026-04-20**|**Polar Coded Quantization for Distributed Source Coding**|Muhammed Yusuf Sener et.al.|[2604.18335](http://arxiv.org/abs/2604.18335)|null|
+|**2026-04-20**|**Toward Zero-Egress Psychiatric AI: On-Device LLM Deployment for Privacy-Preserving Mental Health Decision Support**|Eranga Bandara et.al.|[2604.18302](http://arxiv.org/abs/2604.18302)|null|
+|**2026-04-20**|**AQPIM: Breaking the PIM Capacity Wall for LLMs with In-Memory Activation Quantization**|Kosuke Matsushima et.al.|[2604.18137](http://arxiv.org/abs/2604.18137)|null|
+|**2026-04-20**|**Soft Label Pruning and Quantization for Large-Scale Dataset Distillation**|Xiao Lingao et.al.|[2604.18135](http://arxiv.org/abs/2604.18135)|null|
 |**2026-04-20**|**Towards Real-Time ECG and EMG Modeling on $μ$ NPUs**|Josh Millar et.al.|[2604.18067](http://arxiv.org/abs/2604.18067)|null|
 |**2026-04-20**|**Privacy-Preserving Product-Quantized Approximate Nearest Neighbor Search Framework for Large-scale Datasets via A Hybrid of Fully Homomorphic Encryption and Trusted Execution Environment**|Shozo Saeki et.al.|[2604.17816](http://arxiv.org/abs/2604.17816)|null|
 |**2026-04-20**|**DuQuant++: Fine-grained Rotation Enhances Microscaling FP4 Quantization**|Haokun Lin et.al.|[2604.17789](http://arxiv.org/abs/2604.17789)|null|
@@ -3046,6 +3079,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**ReCap: Lightweight Referential Grounding for Coherent Story Visualization**|Aditya Arora et.al.|[2604.18575](http://arxiv.org/abs/2604.18575)|null|
+|**2026-04-20**|**MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation**|Tanjim Rahaman Fardin et.al.|[2604.18537](http://arxiv.org/abs/2604.18537)|null|
+|**2026-04-20**|**One-Step Diffusion with Inverse Residual Fields for Unsupervised Industrial Anomaly Detection**|Boan Zhang et.al.|[2604.18393](http://arxiv.org/abs/2604.18393)|null|
+|**2026-04-20**|**One Pass for All: A Discrete Diffusion Model for Knowledge Graph Triple Set Prediction**|Jihong Guan et.al.|[2604.18344](http://arxiv.org/abs/2604.18344)|null|
+|**2026-04-20**|**Denoise and Align: Diffusion-Driven Foreground Knowledge Prompting for Open-Vocabulary Temporal Action Detection**|Sa Zhu et.al.|[2604.18313](http://arxiv.org/abs/2604.18313)|null|
+|**2026-04-20**|**Universally Empowering Zeroth-Order Optimization via Adaptive Layer-wise Sampling**|Fei Wang et.al.|[2604.18264](http://arxiv.org/abs/2604.18264)|null|
+|**2026-04-20**|**Long-Text-to-Image Generation via Compositional Prompt Decomposition**|Jen-Yuan Huang et.al.|[2604.18258](http://arxiv.org/abs/2604.18258)|null|
 |**2026-04-20**|**Structure-Adaptive Sparse Diffusion in Voxel Space for 3D Medical Image Enhancement**|Hongxu Jiang et.al.|[2604.17773](http://arxiv.org/abs/2604.17773)|null|
 |**2026-04-20**|**Score-Based Matching with Target Guidance for Cryo-EM Denoising**|Xiaoqi Wu et.al.|[2604.17734](http://arxiv.org/abs/2604.17734)|null|
 |**2026-04-20**|**Grokking of Diffusion Models: Case Study on Modular Addition**|Joon Hyeok Kim et.al.|[2604.17673](http://arxiv.org/abs/2604.17673)|null|
@@ -3564,6 +3604,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Frugal Geofencing via Energy-aware Sensing and Reporting**|David E. Ruiz-Guirola et.al.|[2604.18141](http://arxiv.org/abs/2604.18141)|null|
 |**2026-04-20**|**ExAI5G: A Logic-Based Explainable AI Framework for Intrusion Detection in 5G Networks**|Saeid Sheikhi et.al.|[2604.18052](http://arxiv.org/abs/2604.18052)|null|
 |**2026-04-19**|**ONTO: A Token-Efficient Columnar Notation for LLM Input Optimization**|Harshavardhanan Deekeswar et.al.|[2604.17512](http://arxiv.org/abs/2604.17512)|null|
 |**2026-04-19**|**CAR-EnKF: A Covariance-Adaptive and Recalibrated Ensemble Kalman Filter Framework**|Shida Jiang et.al.|[2604.17343](http://arxiv.org/abs/2604.17343)|null|

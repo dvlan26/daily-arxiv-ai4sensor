@@ -1,4 +1,4 @@
-## Updated on 2026.05.07
+## Updated on 2026.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -338,7 +338,7 @@
 |**2026-01-28**|**Reference-Free Spectral Analysis of EM Side-Channels for Always-on Hardware Trojan Detection**|Mahsa Tahghigh et.al.|[2601.20163](http://arxiv.org/abs/2601.20163)|null|
 |**2026-01-27**|**STONKS first results: Long-term transients in the XMM-Newton Galactic plane survey**|Robbie Webbe et.al.|[2601.19328](http://arxiv.org/abs/2601.19328)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Intelligent Perception & Physical Sensing
 
@@ -534,7 +534,7 @@
 |**2026-01-23**|**Spillovers and Co-movements in Multivariate Volatility: A Vector Multiplicative Error Model**|Edoardo Otranto et.al.|[2601.16837](http://arxiv.org/abs/2601.16837)|null|
 |**2026-01-22**|**Improve the autonomy of the SE2(3) group based Extended Kalman Filter for Integrated Navigation: Theoretical Analysis**|Jiarui Cui et.al.|[2601.16062](http://arxiv.org/abs/2601.16062)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Human-Centric Sensing & Health
 
@@ -1195,7 +1195,7 @@
 |**2026-01-29**|**Near-Field Positioning for XL-MIMO Uniform Circular Arrays: An Attention-Enhanced Deep Learning Approach**|Yuan Gao et.al.|[2601.21550](http://arxiv.org/abs/2601.21550)|null|
 |**2026-01-29**|**Quantum Simulation with Fluxonium Qutrit Arrays**|Ivan Amelio et.al.|[2601.21507](http://arxiv.org/abs/2601.21507)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Wireless, Ubiquitous & Remote Sensing
 
@@ -1754,7 +1754,7 @@
 |**2026-01-28**|**Grover's Search-Inspired Quantum Reinforcement Learning for Massive MIMO User Scheduling**|Ruining Fan et.al.|[2601.20688](http://arxiv.org/abs/2601.20688)|null|
 |**2026-01-28**|**bi-modal textual prompt learning for vision-language models in remote sensing**|Pankhi Kashyap et.al.|[2601.20675](http://arxiv.org/abs/2601.20675)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Multi-Modal Fusion & Geometric Deep Learning
 
@@ -2383,7 +2383,7 @@
 |**2026-01-29**|**Embodied Task Planning via Graph-Informed Action Generation with Large Lanaguage Model**|Xiang Li et.al.|[2601.21841](http://arxiv.org/abs/2601.21841)|null|
 |**2026-01-29**|**When Gradient Optimization Is Not Enough: $\dagger$ Dispersive and Anchoring Geometric Regularizer for Multimodal Learning**|Zixuan Xia et.al.|[2601.21670](http://arxiv.org/abs/2601.21670)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Generative AI & Data Augmentation
 
@@ -3018,7 +3018,7 @@
 |**2026-01-29**|**Generative Design of Ship Propellers using Conditional Flow Matching**|Patrick Kruger et.al.|[2601.21637](http://arxiv.org/abs/2601.21637)|null|
 |**2026-01-29**|**Note2Chat: Improving LLMs for Multi-Turn Clinical History Taking Using Medical Notes**|Yang Zhou et.al.|[2601.21551](http://arxiv.org/abs/2601.21551)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Edge Intelligence & On-Device AI
 
@@ -3711,7 +3711,7 @@
 |**2026-01-29**|**A general framework for interactions between electron beams and quantum optical systems**|Jakob M. Grzesik et.al.|[2601.21385](http://arxiv.org/abs/2601.21385)|null|
 |**2026-01-29**|**Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach**|Yinlin Zhu et.al.|[2601.21369](http://arxiv.org/abs/2601.21369)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Robustness, Calibration & Maintenance
 
@@ -4344,7 +4344,7 @@
 |**2026-01-29**|**ILRR: Inference-Time Steering Method for Masked Diffusion Language Models**|Eden Avrahami et.al.|[2601.21647](http://arxiv.org/abs/2601.21647)|null|
 |**2026-01-29**|**Memorization Control in Diffusion Models from Denoising-centric Perspective**|Thuy Phuong Vu et.al.|[2601.21348](http://arxiv.org/abs/2601.21348)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Cyber-Physical Systems & IoT Analytics
 
@@ -4904,7 +4904,7 @@
 |**2026-01-28**|**IoT Device Identification with Machine Learning: Common Pitfalls and Best Practices**|Kahraman Kostas et.al.|[2601.20548](http://arxiv.org/abs/2601.20548)|null|
 |**2026-01-28**|**Dual-Modality IoT Framework for Integrated Access Control and Environmental Safety Monitoring with Real-Time Cloud Analytics**|Abdul Hasib et.al.|[2601.20366](http://arxiv.org/abs/2601.20366)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/ai4senser-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4senser-arxiv-daily/graphs/contributors
